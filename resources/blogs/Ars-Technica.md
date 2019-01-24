@@ -11,7 +11,7 @@ ds.author: ricardodsanchez
 
 # Ars Technica
 
-## Serving the Technologist for more than a decade. IT news, reviews, and analysis.
+Serving the Technologist for more than a decade. IT news, reviews, and analysis.
 
 [Go to resource](https://arstechnica.com/?developerstash)
 
