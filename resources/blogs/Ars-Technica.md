@@ -9,8 +9,10 @@ ds.date: 01/23/2019
 ds.author: ricardodsanchez
 ---
 
-#Ars Technica
+# Ars Technica
 
-##Serving the Technologist for more than a decade. IT news, reviews, and analysis.
+## Serving the Technologist for more than a decade. IT news, reviews, and analysis.
 
-https://arstechnica.com/?developerstash
+[Go to resource](https://arstechnica.com/?developerstash)
+
+[Twitter](https://twitter.com/arstechnica)
