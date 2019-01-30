@@ -1,4 +1,4 @@
-# developer-stash
+# Developer Stash
 Hand picked resources and tools for Developers
 
 # Getting Involved
