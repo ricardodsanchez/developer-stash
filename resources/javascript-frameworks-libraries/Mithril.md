@@ -4,5 +4,5 @@ Mithril is a modern client-side Javascript framework for building Single Page Ap
 
 [Github](https://github.com/MithrilJS/mithril.js)
 
-[Website](https://mithril.js.org/developerstash)
+[Website](https://mithril.js.org/?developerstash)
 
