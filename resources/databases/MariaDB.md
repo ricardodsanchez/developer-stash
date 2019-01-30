@@ -4,6 +4,6 @@ Made by the original developers of MySQL, MariaDB is used by tech giants like Wi
 
 [Github](https://github.com/MariaDB)
 
-[Website](https://mariadb.com/)
+[Website](https://mariadb.com/?developerstash)
 
 [Twitter](https://twitter.com/mariadb)
