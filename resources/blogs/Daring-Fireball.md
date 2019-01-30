@@ -2,6 +2,6 @@
 
 Daring Fireball by John Gruber
 
-[Go to resource](https://daringfireball.net/?developerstash)
+[Website](https://daringfireball.net/?developerstash)
 
 [Twitter](https://twitter.com/daringfireball)
