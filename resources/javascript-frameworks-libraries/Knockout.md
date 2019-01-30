@@ -4,6 +4,6 @@ Knockout is a JavaScript MVVM (a modern variant of MVC) library that makes it ea
 
 [Github](https://github.com/knockout/knockout)
 
-[Website](https://knockoutjs.com/)
+[Website](https://knockoutjs.com/?developerstash)
 
 [Twitter](https://twitter.com/knockout_js)
