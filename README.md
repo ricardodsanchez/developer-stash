@@ -6,7 +6,15 @@ Developer Stash is a collection of recources for developers. These resources are
 
 # Resources
 
-[Resources](/resources)
+- [Blogs](/resources/blogs)
+- [Books](/resources/books)
+- [Bundlers](/resources/bundlers)
+- [Cloud Providers](/resources/cloud-providers)
+- [Code Editors](/resources/code-editors)
+- [Coding Courses](/resources/coding-courses)
+- [Databases](/resources/databases)
+- [Javascript Frameworks & Libraries](/resources/javascript-frameworks-libraries)
+- [Mockups & Wireframing](/resources/mockups-wireframing)
 
 # Getting involved
 
