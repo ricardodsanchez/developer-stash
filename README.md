@@ -6,8 +6,8 @@ Developer Stash is a collection of recources for developers. These resources are
 
 # Resources
 
-- [Blogs](/resources/blogs)
-- [Books](/resources/books)
+- [Blogs](https://github.com/ricardodsanchez/developer-stash/tree/master/resources/blogs)
+- [Books](https://github.com/ricardodsanchez/developer-stash/tree/master/resources/books)
 - [Bundlers](/resources/bundlers)
 - [Cloud Providers](/resources/cloud-providers)
 - [Code Editors](/resources/code-editors)
