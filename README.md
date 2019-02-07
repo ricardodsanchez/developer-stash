@@ -8,13 +8,13 @@ Developer Stash is a collection of recources for developers. These resources are
 
 - [Blogs](https://github.com/ricardodsanchez/developer-stash/tree/master/resources/blogs)
 - [Books](https://github.com/ricardodsanchez/developer-stash/tree/master/resources/books)
-- [Bundlers](/resources/bundlers)
-- [Cloud Providers](/resources/cloud-providers)
-- [Code Editors](/resources/code-editors)
-- [Coding Courses](/resources/coding-courses)
-- [Databases](/resources/databases)
-- [Javascript Frameworks & Libraries](/resources/javascript-frameworks-libraries)
-- [Mockups & Wireframing](/resources/mockups-wireframing)
+- [Bundlers](https://github.com/ricardodsanchez/developer-stash/tree/master/resources/bundlers)
+- [Cloud Providers](https://github.com/ricardodsanchez/developer-stash/tree/master/resources/cloud-providers)
+- [Code Editors](https://github.com/ricardodsanchez/developer-stash/tree/master/resources/code-editors)
+- [Coding Courses](https://github.com/ricardodsanchez/developer-stash/tree/master/resources/coding-courses)
+- [Databases](https://github.com/ricardodsanchez/developer-stash/tree/master/resources/databases)
+- [Javascript Frameworks & Libraries](https://github.com/ricardodsanchez/developer-stash/tree/master/resources/javascript-frameworks-libraries)
+- [Mockups & Wireframing](https://github.com/ricardodsanchez/developer-stash/tree/master/resources/mockups-wireframing)
 
 # Getting involved
 
