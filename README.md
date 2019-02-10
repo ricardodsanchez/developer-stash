@@ -20,16 +20,16 @@ Developer Stash is a collection of resources for developers. These resources are
 
 ### Blogs
 
-Name | Description | Website | Twitter | Free |
-|---|---|---|---|---|
-| [Ars Technica](https://arstechnica.com/?developerstash) | Serving the Technologist for more than a decade. IT news, reviews, and analysis. | [View](https://arstechnica.com/?developerstash) | [@arstechnica](https://twitter.com/arstechnica) | Yes |
-| [Daring Fireball by John Gruber](https://daringfireball.net/?developerstash) | Daring Fireball by John Gruber | [View](https://daringfireball.net/?developerstash) | [@daringfireball](https://twitter.com/daringfireball) | Yes |
-| [Hacker Noon](https://hackernoon.com/?developerstash) | How hackers start their afternoons. | [View](https://hackernoon.com/?developerstash) | [@hackernoon](https://twitter.com/hackernoon) | Yes |
-| [MIT Technology Review](https://www.technologyreview.com/?developerstash) | The mission of MIT Technology Review is to bring about better-informed and more conscious decisions about technology through authoritative, influential, and trustworthy journalism. | [View](https://www.technologyreview.com/?developerstash) | [@techreview](https://twitter.com/techreview) | Yes |
-| [NY Times Bits](https://www.nytimes.com/column/bits/?developerstash) | Insight and analysis on Silicon Valley and the technology industry. | [View](https://www.nytimes.com/column/bits/?developerstash) | [@nytimestech](https://twitter.com/nytimestech) | Yes |
-| [Stratechery](https://stratechery.com/?developerstash) | Stratechery by Ben Thompson – On the business, strategy, and impact of technology. | [View](https://stratechery.com/?developerstash) | [@stratechery](https://twitter.com/stratechery) | Yes |
-| [TechCrunch](https://techcrunch.com/?developerstash) | TechCrunch is a leading technology media property, dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news. | [View](https://techcrunch.com/?developerstash) | [@TechCrunch](https://twitter.com/TechCrunch) | Yes |
-| [Wired](https://www.wired.com/?developerstash) | Lots of culture and snarkiness to surround technology and how it changes our world. Wired is to tech what Rolling Stone is to music. | [View](https://www.wired.com/?developerstash) | [@wired](http://twitter.com/wired) | Yes |
+Name | Description | Website | Twitter |
+|---|---|---|---|
+| [Ars Technica](https://arstechnica.com/?developerstash) | Serving the Technologist for more than a decade. IT news, reviews, and analysis. | [View](https://arstechnica.com/?developerstash) | [@arstechnica](https://twitter.com/arstechnica) |
+| [Daring Fireball by John Gruber](https://daringfireball.net/?developerstash) | Daring Fireball by John Gruber | [View](https://daringfireball.net/?developerstash) | [@daringfireball](https://twitter.com/daringfireball) |
+| [Hacker Noon](https://hackernoon.com/?developerstash) | How hackers start their afternoons. | [View](https://hackernoon.com/?developerstash) | [@hackernoon](https://twitter.com/hackernoon) |
+| [MIT Technology Review](https://www.technologyreview.com/?developerstash) | The mission of MIT Technology Review is to bring about better-informed and more conscious decisions about technology through authoritative, influential, and trustworthy journalism. | [View](https://www.technologyreview.com/?developerstash) | [@techreview](https://twitter.com/techreview) |
+| [NY Times Bits](https://www.nytimes.com/column/bits/?developerstash) | Insight and analysis on Silicon Valley and the technology industry. | [View](https://www.nytimes.com/column/bits/?developerstash) | [@nytimestech](https://twitter.com/nytimestech) |
+| [Stratechery](https://stratechery.com/?developerstash) | Stratechery by Ben Thompson – On the business, strategy, and impact of technology. | [View](https://stratechery.com/?developerstash) | [@stratechery](https://twitter.com/stratechery) |
+| [TechCrunch](https://techcrunch.com/?developerstash) | TechCrunch is a leading technology media property, dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news. | [View](https://techcrunch.com/?developerstash) | [@TechCrunch](https://twitter.com/TechCrunch) |
+| [Wired](https://www.wired.com/?developerstash) | Lots of culture and snarkiness to surround technology and how it changes our world. Wired is to tech what Rolling Stone is to music. | [View](https://www.wired.com/?developerstash) | [@wired](http://twitter.com/wired) |
 
 ### Books
 
