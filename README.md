@@ -46,7 +46,7 @@ Name | Author | Description | Website |
 ### Bundlers
 
 Name | Description | Source Code | Website | Twitter |
-|---|---|---|---|---|---|
+|---|---|---|---|---|
 | [Browserify](http://browserify.org/?developerstash) | Browserify is an open-source JavaScript tool that allows developers to write Node.js-style modules that compile for use in the browser. | [Repo](https://github.com/browserify/browserify) | [View](http://browserify.org/?developerstash) | [@browserify](https://twitter.com/browserify) |
 | [Parcel](https://parceljs.org/?developerstash) | Blazing fast, zero configuration web application bundler. | [Repo](https://github.com/parcel-bundler/parcel) | [View](https://parceljs.org/?developerstash) | [@parceljs](https://twitter.com/parceljs) |
 | [Rollup.js](https://rollupjs.org/guide/en/?developerstash) | Rollup is a module bundler for JavaScript which compiles small pieces of code into something larger and more complex, such as a library or application. | [Repo](https://github.com/rollup/rollup) | [View](https://rollupjs.org/guide/en/?developerstash) | [@RollupJS](https://twitter.com/RollupJS) |
