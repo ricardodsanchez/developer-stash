@@ -11,7 +11,7 @@ Developer Stash is a collection of resources for developers. These resources are
 - [Blogs](#blogs)
 - [Books](#books)
 - [Bundlers](#bundlers)
-- [Cloud Providers](#cloud-providers)
+- [Cloud Providers / Platforms](#cloud-providers)
 - [Code Editors](#code-editors)
 - [Coding Courses](#coding-courses)
 - [Databases](#databases)
@@ -56,6 +56,8 @@ Name | Description | Source Code | Website | Twitter |
 
 Name | Description | Website | Twitter |
 |---|---|---|---|
+| [DigitalOcean](https://www.digitalocean.com/?developerstash) | We make it simple to launch in the cloud and scale up as you grow—whether you’re running one virtual machine or ten thousand.  | [View](https://www.digitalocean.com/?developerstash) | [@digitalocean](https://twitter.com/digitalocean) |
+| [Heroku](https://www.heroku.com/home/?developerstash)| Heroku is a cloud platform that lets companies build, deliver, monitor and scale apps — we're the fastest way to go from idea to URL, bypassing all those infrastructure headaches. | [View](https://www.heroku.com/home/?developerstash) | [@heroku](https://twitter.com/heroku) |
 | [Alibaba Cloud](https://www.alibabacloud.com/?developerstash) | Alibaba Cloud offers reliable and secure cloud computing services and solutions at competitive prices. | [View](https://www.alibabacloud.com/?developerstash) | [@alibaba_cloud](https://twitter.com/alibaba_cloud) |
 | [Amazon Web Services (AWS)](https://aws.amazon.com/?developerstash) | Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use. | [View](https://aws.amazon.com/?developerstash) | [@awscloud](https://twitter.com/awscloud) |
 | [Azure](https://azure.microsoft.com/?developerstash) | Microsoft Azure is an open, flexible, enterprise-grade cloud computing platform. Move faster, do more, and save money with IaaS + PaaS. | [View](https://azure.microsoft.com/?developerstash) | [@azure](https://twitter.com/azure) |
