@@ -13,6 +13,7 @@ Developer Stash is a collection of resources for developers. These resources are
 - [Bundlers](#bundlers)
 - [Cloud Providers / Platforms](#cloud-providers)
 - [Code Editors](#code-editors)
+- [Code Management](#code-management)
 - [Coding Courses](#coding-courses)
 - [Databases](#databases)
 - [Javascript Frameworks & Libraries](#javascript-frameworks-and-libraries)
@@ -76,6 +77,13 @@ Name | Description | Source Code | Website | Twitter |
 | [Sublime Text](https://www.sublimetext.com/?developerstash) | Sublime Text is a sophisticated text editor for code, markup and prose. | [Repo]() | [View](https://www.sublimetext.com/?developerstash) | [@sublimehq](https://twitter.com/sublimehq) |
 | [TextMate](https://macromates.com/?developerstash) | TextMate brings Apple’s approach to operating systems into the world of text editors. By bridging UNIX underpinnings and GUI, TextMate cherry-picks the best of both worlds to the benefit of expert scripters and novice users alike. | | [View](https://macromates.com/?developerstash) | [@macromates](https://twitter.com/macromates) |
 | [Visual Studio Code](https://code.visualstudio.com/?developerstash) | Code editing. Redefined. Free. Open source. Runs everywhere. | [Repo](https://github.com/Microsoft/vscode/) | [View](https://code.visualstudio.com/?developerstash) | [@code](https://twitter.com/code) |
+
+### Code Management
+
+Name | Description | Website | Twitter |
+|---|---|---|---|
+| [Github](https://github.com/) | GitHub is a development platform inspired by the way you work. From open source to business, you can host and review code, manage projects, and build software alongside 31 million developers. | [View](https://github.com/) | [@github](https://twitter.com/github/) |
+| [Bitbucket](https://bitbucket.org/) | Bitbucket is more than just Git code management. Bitbucket gives teams one place to plan projects, collaborate on code, test, and deploy. | [View](https://bitbucket.org/) | [@bitbucket](https://twitter.com/bitbucket/) |
 
 ### Coding Courses
 Name | Description | Website | Twitter |
