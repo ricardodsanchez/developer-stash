@@ -36,21 +36,21 @@ Name | Description | Website | Twitter |
 
 Name | Author | Description | Website |
 |---|---|---|---|
-| [Clean Architecture](https://amzn.to/31k7Kki) | Robert Martin | Clean Architecture : A Craftman's Guide to Software Structure and Design| [View Book](https://amzn.to/31k7Kki)) |
+| [Clean Architecture](https://amzn.to/31k7Kki) | Robert Martin | Clean Architecture : A Craftman's Guide to Software Structure and Design| [View Book](https://amzn.to/31k7Kki) |
 | [Code Complete](https://amzn.to/2Ny4hMU) | Steve McConnell | Code Complete: A Practical Handbook of Software Construction | [View Book](https://amzn.to/2Ny4hMU) | 
 | [Cracking The Coding Interview](https://amzn.to/2NB7LhL) | Gayle Laakmann McDowell | Cracking the Coding Interview: 189 Programming Questions and Solutions | [View Book](https://amzn.to/2NB7LhL) | 
-| [Data Modeling and Design](https://amzn.to/2Zv6ACn) | Scannel and Umanath | Data Modeling and Desing| [View Book](https://amzn.to/2Zv6ACn)) |
+| [Data Modeling and Design](https://amzn.to/2Zv6ACn) | Scannel and Umanath | Data Modeling and Desing| [View Book](https://amzn.to/2Zv6ACn) |
 | [Design Patterns: Elements of Reusable Object-Oriented Software](https://amzn.to/2I6RYRD) | Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, Grady Booch | Design Patterns: Elements of Reusable Object-Oriented Software | [View Book](https://amzn.to/2I6RYRD) |
-| [Domain Driven Design](https://amzn.to/2GLBGy1) | Eric Evans | Domain Driven Design| [View Book](https://amzn.to/2GLBGy1)) |
-| [Enterprise Integration Patterns](https://amzn.to/2OCCewA) | Gregor Hohpe | Enterprise Integration Patterns| [View Book](https://amzn.to/2OCCewA)) | 
-| [Head First Design Patterns](https://amzn.to/2YGnEIo) | Freeman et al | Head First Design Patterns| [View Book](https://amzn.to/2YGnEIo)) |
+| [Domain Driven Design](https://amzn.to/2GLBGy1) | Eric Evans | Domain Driven Design| [View Book](https://amzn.to/2GLBGy1) |
+| [Enterprise Integration Patterns](https://amzn.to/2OCCewA) | Gregor Hohpe | Enterprise Integration Patterns| [View Book](https://amzn.to/2OCCewA) | 
+| [Head First Design Patterns](https://amzn.to/2YGnEIo) | Freeman et al | Head First Design Patterns| [View Book](https://amzn.to/2YGnEIo) |
 | [Introduction to Algorithms](https://amzn.to/2DzyEOv) | Thomas H. Cormen, Charles E. Leiserson. Ronald L. Rivest. Clifford Stein | Introduction to Algorithms | [View Book](https://amzn.to/2DzyEOv) |
-| [Object Design](https://amzn.to/2KfDgdB) | Wirfs-Brock and and McKean| Object Design: Roles, Responsiblities and Collaborations| [View Book](https://amzn.to/2KfDgdB)) |
-| [Patterns of Enterprise Applicion Architecture](https://amzn.to/2M0nndl) | Martin Fowler| Patterns of Enterprise Applicion Architecture | [View Book](https://amzn.to/2M0nndl)) |
+| [Object Design](https://amzn.to/2KfDgdB) | Wirfs-Brock and and McKean| Object Design: Roles, Responsiblities and Collaborations| [View Book](https://amzn.to/2KfDgdB) |
+| [Patterns of Enterprise Applicion Architecture](https://amzn.to/2M0nndl) | Martin Fowler| Patterns of Enterprise Applicion Architecture | [View Book](https://amzn.to/2M0nndl) |
 | [Peopleware](https://amzn.to/2IcqSZz) | Tom DeMarco and Tim Lister | Peopleware: Productive Projects and Teams | [View Book](https://amzn.to/2IcqSZz) |
 | [Real-World Algorithms: A Beginner's Guide](https://amzn.to/2QVeZLx) | Panos Louridas | Real-World Algorithms: A Beginner's Guide | [View Book](https://amzn.to/2QVeZLx) |
 | [The Pragmatic Programmer: From Journeyman to Master](https://amzn.to/2xMm342) | Andrew Hunt and David Thomas | The Pragmatic Programmer: From Journeyman to Master | [View Book](https://amzn.to/2xMm342) |
-| [UML Distilled](https://amzn.to/2MC5alF) | Martin Fowler | UML Distilled| [View Book](https://amzn.to/2MC5alF)) | 
+| [UML Distilled](https://amzn.to/2MC5alF) | Martin Fowler | UML Distilled| [View Book](https://amzn.to/2MC5alF) | 
 
 
 ### Bundlers
