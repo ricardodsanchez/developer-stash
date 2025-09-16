@@ -23,16 +23,17 @@ Status legend:
 
 - [Blogs](#blogs)
 - [Books](#books)
-- [Build & Bundling Tools](#build-bundling-tools)
-- [Cloud Providers & Platforms](#cloud-providers-platforms)
+- [Build & Bundling Tools](#build-and-bundling-tools)
+- [Cloud Providers & Platforms](#cloud-providers-and-platforms)
 - [Code Editors](#code-editors)
 - [Code Management](#code-management)
-- [Coding Courses & Learning](#coding-courses-learning)
-- [Databases & Data Systems](#databases-data-systems)
-- [JavaScript Frameworks & Libraries](#javascript-frameworks-libraries)
-- [Mockups & Wireframing](#mockups-wireframing)
-- [AI Tools & Assistants](#ai-tools-assistants)
+- [Coding Courses & Learning](#coding-courses-and-learning)
+- [Databases & Data Systems](#databases-and-data-systems)
+- [JavaScript Frameworks & Libraries](#javascript-frameworks-and-libraries)
+- [Mockups & Wireframing](#mockups-and-wireframing)
+- [AI Tools & Assistants](#ai-tools-and-assistants)
 
+<a id="blogs"></a>
 ### Blogs
 
 Industry news, analysis, and technology commentary.
@@ -48,6 +49,7 @@ Industry news, analysis, and technology commentary.
 | [TechCrunch](https://techcrunch.com/) | core | Startup and tech industry news. | [Visit](https://techcrunch.com/) |
 | [Wired](https://www.wired.com/) | core | Technology, culture, and science coverage. | [Visit](https://www.wired.com/) |
 
+<a id="books"></a>
 ### Books
 
 Foundational and influential software engineering literature.
@@ -71,6 +73,7 @@ Foundational and influential software engineering literature.
 | [UML Distilled](https://amzn.to/2MC5alF) | legacy | Lightweight guide to UML. | [Visit](https://amzn.to/2MC5alF) |
 | [Designing Data-Intensive Applications](https://amzn.to/3example-ddia) | core | Modern architectures for reliable, scalable, maintainable systems. | [Visit](https://amzn.to/3example-ddia) |
 
+<a id="build-and-bundling-tools"></a>
 ### Build & Bundling Tools
 
 Tooling for transforming, bundling, and serving code.
@@ -86,6 +89,7 @@ Tooling for transforming, bundling, and serving code.
 | [SWC](https://swc.rs/) | emerging | Rust-based platform for fast JavaScript/TypeScript compilation. | [Visit](https://swc.rs/) |
 | [Turbopack](https://turbo.build/pack) | emerging | Next-gen Rust-based bundler (early stage) aimed at React/Next.js. | [Visit](https://turbo.build/pack) |
 
+<a id="cloud-providers-and-platforms"></a>
 ### Cloud Providers & Platforms
 
 Infrastructure and deployment platforms.
@@ -105,6 +109,7 @@ Infrastructure and deployment platforms.
 | [Fly.io](https://fly.io/) | emerging | Run full-stack apps close to users globally. | [Visit](https://fly.io/) |
 | [Render](https://render.com/) | emerging | Unified cloud for static sites, services, and databases. | [Visit](https://render.com/) |
 
+<a id="code-editors"></a>
 ### Code Editors
 
 Text and code editors used by developers.
@@ -125,6 +130,7 @@ Text and code editors used by developers.
 | [Neovim](https://neovim.io/) | core | Modern Vim fork with Lua extensibility. | [Visit](https://neovim.io/) |
 | [Helix](https://helix-editor.com/) | emerging | Modal editor with tree-sitter integration. | [Visit](https://helix-editor.com/) |
 
+<a id="code-management"></a>
 ### Code Management
 
 Hosted version control and collaboration platforms.
@@ -137,6 +143,7 @@ Hosted version control and collaboration platforms.
 | [SourceHut](https://sourcehut.org/) | niche | Minimalist, email-centric development platform. | [Visit](https://sourcehut.org/) |
 | [Gitea](https://gitea.io/) | emerging | Lightweight self-hosted Git service. | [Visit](https://gitea.io/) |
 
+<a id="coding-courses-and-learning"></a>
 ### Coding Courses & Learning
 
 Educational platforms and structured learning resources.
@@ -155,6 +162,7 @@ Educational platforms and structured learning resources.
 | [Egghead.io](https://egghead.io/) | niche | Bite-sized developer video lessons. | [Visit](https://egghead.io/) |
 | [Exercism](https://exercism.org/) | core | Practice platform with mentor feedback. | [Visit](https://exercism.org/) |
 
+<a id="databases-and-data-systems"></a>
 ### Databases & Data Systems
 
 Operational, analytical, and emerging database technologies.
@@ -174,6 +182,7 @@ Operational, analytical, and emerging database technologies.
 | [Neo4j](https://neo4j.com/) | niche | Native property graph database. | [Visit](https://neo4j.com/) |
 | [Cubrid](https://www.cubrid.org/) | niche | Open source relational database optimized for web apps. | [Visit](https://www.cubrid.org/) |
 
+<a id="javascript-frameworks-and-libraries"></a>
 ### JavaScript Frameworks & Libraries
 
 Libraries and frameworks for building user interfaces and web apps.
@@ -192,6 +201,7 @@ Libraries and frameworks for building user interfaces and web apps.
 | [Qwik](https://qwik.builder.io/) | emerging | Resumable framework optimized for instant startup. | [Visit](https://qwik.builder.io/) |
 | [Astro](https://astro.build/) | emerging | Content-focused framework with island architecture. | [Visit](https://astro.build/) |
 
+<a id="mockups-and-wireframing"></a>
 ### Mockups & Wireframing
 
 Tools for UX wireframing, prototyping, and interface design.
@@ -206,6 +216,7 @@ Tools for UX wireframing, prototyping, and interface design.
 | [InDesign](https://www.adobe.com/products/indesign.html) | legacy | Desktop publishing tool occasionally repurposed for UI layouts. | [Visit](https://www.adobe.com/products/indesign.html) |
 | [Fluid UI](https://www.fluidui.com/) | niche | Rapid prototyping tool with component libraries. | [Visit](https://www.fluidui.com/) |
 
+<a id="ai-tools-and-assistants"></a>
 ### AI Tools & Assistants
 
 AI-powered developer assistants, model platforms, and orchestration tooling.

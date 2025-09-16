@@ -78,12 +78,20 @@ readme << legend_table.to_md
 readme << ''
 readme << '## Index'
 readme << ''
+def github_slug(text)
+  # Deterministic slug for explicit anchors (not relying on GitHub heuristics)
+  text.to_s.strip.downcase.gsub(/&/, 'and').gsub(/[^a-z0-9]+/, '-').gsub(/^-+|-+$/, '')
+end
+
 categories.each do |cat|
-  readme << "- [#{cat['title']}](##{cat['title'].downcase.gsub(/[^a-z0-9]+/, '-')})"
+  slug = github_slug(cat['title'])
+  readme << "- [#{cat['title']}](##{slug})"
 end
 readme << ''
 
 categories.each do |cat|
+  slug = github_slug(cat['title'])
+  readme << "<a id=\"#{slug}\"></a>"
   readme << "### #{cat['title']}"
   readme << ''
   readme << cat['description'] if cat['description']
