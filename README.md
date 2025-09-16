@@ -1,149 +1,212 @@
 # Developer Stash
 
-Hand-picked resources and tools for developers.
+Curated resources and tools for developers. Generated from structured data.
+
+![Last Generated](https://img.shields.io/static/v1?label=last_generated&message=2025-09-16&color=blue&style=flat-square) ![Last Vetted](https://img.shields.io/static/v1?label=last_vetted&message=2025-09-15&color=green&style=flat-square) ![Resources](https://img.shields.io/static/v1?label=resources&message=102&color=purple&style=flat-square)
 
 ## How to use it
 
-Developer Stash is a collection of resources for developers. These resources are all listed below and are divided into different categories such as _blogs_, _code editors_, _JavaScript Frameworks_, etc. Under each category, you'll find the list of resources, along with their name, description, URL, and Twitter account.
+Browse categories below. Each resource includes a status indicator to help you assess current relevance.
+
+Status legend:
+
+| Status | Meaning |
+| --- | --- |
+| core | Widely adopted and actively maintained. |
+| niche | Useful but with a smaller or specialized user base. |
+| legacy | Historically important; limited new adoption. |
+| deprecated | Discontinued or archived; included for historical context only. |
+| emerging | Rapidly growing; watch for ecosystem maturity. |
+| declining | Still available but usage and momentum are decreasing. |
 
 ## Index
 
 - [Blogs](#blogs)
 - [Books](#books)
-- [Bundlers](#bundlers)
-- [Cloud Providers / Platforms](#cloud-providers)
+- [Build & Bundling Tools](#build-bundling-tools)
+- [Cloud Providers & Platforms](#cloud-providers-platforms)
 - [Code Editors](#code-editors)
 - [Code Management](#code-management)
-- [Coding Courses](#coding-courses)
-- [Databases](#databases)
-- [Javascript Frameworks & Libraries](#javascript-frameworks-and-libraries)
-- [Mockups & Wireframing](#mockups-and-wireframing)
+- [Coding Courses & Learning](#coding-courses-learning)
+- [Databases & Data Systems](#databases-data-systems)
+- [JavaScript Frameworks & Libraries](#javascript-frameworks-libraries)
+- [Mockups & Wireframing](#mockups-wireframing)
 
 ### Blogs
 
-| Name                                                                         | Description                                                                                                                                                                          | Website                                                     | Twitter                                               |
-| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------- | ----------------------------------------------------- |
-| [Ars Technica](https://arstechnica.com/?developerstash)                      | Serving the Technologist for more than a decade. IT news, reviews, and analysis.                                                                                                     | [View](https://arstechnica.com/?developerstash)             | [@arstechnica](https://twitter.com/arstechnica)       |
-| [Daring Fireball by John Gruber](https://daringfireball.net/?developerstash) | Daring Fireball by John Gruber                                                                                                                                                       | [View](https://daringfireball.net/?developerstash)          | [@daringfireball](https://twitter.com/daringfireball) |
-| [Hacker Noon](https://hackernoon.com/?developerstash)                        | How hackers start their afternoons.                                                                                                                                                  | [View](https://hackernoon.com/?developerstash)              | [@hackernoon](https://twitter.com/hackernoon)         |
-| [MIT Technology Review](https://www.technologyreview.com/?developerstash)    | The mission of MIT Technology Review is to bring about better-informed and more conscious decisions about technology through authoritative, influential, and trustworthy journalism. | [View](https://www.technologyreview.com/?developerstash)    | [@techreview](https://twitter.com/techreview)         |
-| [NY Times Bits](https://www.nytimes.com/column/bits/?developerstash)         | Insight and analysis on Silicon Valley and the technology industry.                                                                                                                  | [View](https://www.nytimes.com/column/bits/?developerstash) | [@nytimestech](https://twitter.com/nytimestech)       |
-| [Stratechery](https://stratechery.com/?developerstash)                       | Stratechery by Ben Thompson – On the business, strategy, and impact of technology.                                                                                                   | [View](https://stratechery.com/?developerstash)             | [@stratechery](https://twitter.com/stratechery)       |
-| [TechCrunch](https://techcrunch.com/?developerstash)                         | TechCrunch is a leading technology media property, dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news.                             | [View](https://techcrunch.com/?developerstash)              | [@TechCrunch](https://twitter.com/TechCrunch)         |
-| [Wired](https://www.wired.com/?developerstash)                               | Lots of culture and snarkiness to surround technology and how it changes our world. Wired is to tech what Rolling Stone is to music.                                                 | [View](https://www.wired.com/?developerstash)               | [@wired](http://twitter.com/wired)                    |
+Industry news, analysis, and technology commentary.
+
+| Name | Status | Description | Website |
+| --- | --- | --- | --- |
+| [Ars Technica](https://arstechnica.com/) | core | Serving the Technologist for more than a decade. IT news, reviews, and analysis. | [Visit](https://arstechnica.com/) |
+| [Daring Fireball](https://daringfireball.net/) | core | Commentary by John Gruber. | [Visit](https://daringfireball.net/) |
+| [Hacker Noon](https://hackernoon.com/) | niche | Community-driven technology stories. | [Visit](https://hackernoon.com/) |
+| [MIT Technology Review](https://www.technologyreview.com/) | core | Reporting and analysis on emerging technologies. | [Visit](https://www.technologyreview.com/) |
+| [NY Times Tech (Bits)](https://www.nytimes.com/section/technology) | legacy | Technology industry coverage from The New York Times. | [Visit](https://www.nytimes.com/section/technology) |
+| [Stratechery](https://stratechery.com/) | core | Analysis of the strategy and business of technology. | [Visit](https://stratechery.com/) |
+| [TechCrunch](https://techcrunch.com/) | core | Startup and tech industry news. | [Visit](https://techcrunch.com/) |
+| [Wired](https://www.wired.com/) | core | Technology, culture, and science coverage. | [Visit](https://www.wired.com/) |
 
 ### Books
 
-| Name                                                                                      | Author                                                                   | Description                                                              | Website                              |
-| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------ | ------------------------------------ |
-| [Clean Architecture](https://amzn.to/31k7Kki)                                             | Robert Martin                                                            | Clean Architecture: A Craftsman's Guide to Software Structure and Design | [View Book](https://amzn.to/31k7Kki) |
-| [Code Complete](https://amzn.to/2Ny4hMU)                                                  | Steve McConnell                                                          | Code Complete: A Practical Handbook of Software Construction             | [View Book](https://amzn.to/2Ny4hMU) |
-| [Cracking The Coding Interview](https://amzn.to/2NB7LhL)                                  | Gayle Laakmann McDowell                                                  | Cracking the Coding Interview: 189 Programming Questions and Solutions   | [View Book](https://amzn.to/2NB7LhL) |
-| [Data Modeling and Design](https://amzn.to/2Zv6ACn)                                       | Scannel and Umanath                                                      | Data Modeling and Design                                                 | [View Book](https://amzn.to/2Zv6ACn) |
-| [Design Patterns: Elements of Reusable Object-Oriented Software](https://amzn.to/2I6RYRD) | Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, Grady Booch    | Design Patterns: Elements of Reusable Object-Oriented Software           | [View Book](https://amzn.to/2I6RYRD) |
-| [Domain Driven Design](https://amzn.to/2GLBGy1)                                           | Eric Evans                                                               | Domain Driven Design                                                     | [View Book](https://amzn.to/2GLBGy1) |
-| [Enterprise Integration Patterns](https://amzn.to/2OCCewA)                                | Gregor Hohpe                                                             | Enterprise Integration Patterns                                          | [View Book](https://amzn.to/2OCCewA) |
-| [Head First Design Patterns](https://amzn.to/2YGnEIo)                                     | Freeman et al                                                            | Head First Design Patterns                                               | [View Book](https://amzn.to/2YGnEIo) |
-| [Introduction to Algorithms](https://amzn.to/2DzyEOv)                                     | Thomas H. Cormen, Charles E. Leiserson. Ronald L. Rivest. Clifford Stein | Introduction to Algorithms                                               | [View Book](https://amzn.to/2DzyEOv) |
-| [Object Design](https://amzn.to/2KfDgdB)                                                  | Wirfs-Brock and McKean                                                   | Object Design: Roles, Responsibilities, and Collaborations               | [View Book](https://amzn.to/2KfDgdB) |
-| [Patterns of Enterprise Application Architecture](https://amzn.to/2M0nndl)                | Martin Fowler                                                            | Patterns of Enterprise Application Architecture                          | [View Book](https://amzn.to/2M0nndl) |
-| [Peopleware](https://amzn.to/2IcqSZz)                                                     | Tom DeMarco and Tim Lister                                               | Peopleware: Productive Projects and Teams                                | [View Book](https://amzn.to/2IcqSZz) |
-| [Real-World Algorithms: A Beginner's Guide](https://amzn.to/2QVeZLx)                      | Panos Louridas                                                           | Real-World Algorithms: A Beginner's Guide                                | [View Book](https://amzn.to/2QVeZLx) |
-| [The Pragmatic Programmer: From Journeyman to Master](https://amzn.to/2xMm342)            | Andrew Hunt and David Thomas                                             | The Pragmatic Programmer: From Journeyman to Master                      | [View Book](https://amzn.to/2xMm342) |
-| [UML Distilled](https://amzn.to/2MC5alF)                                                  | Martin Fowler                                                            | UML Distilled                                                            | [View Book](https://amzn.to/2MC5alF) |
+Foundational and influential software engineering literature.
 
-### Bundlers
+| Name | Status | Description | Website |
+| --- | --- | --- | --- |
+| [Clean Architecture](https://amzn.to/31k7Kki) | core | A craftsman's guide to software structure and design. | [Visit](https://amzn.to/31k7Kki) |
+| [Code Complete](https://amzn.to/2Ny4hMU) | core | Practical handbook of software construction. | [Visit](https://amzn.to/2Ny4hMU) |
+| [Cracking the Coding Interview](https://amzn.to/2NB7LhL) | core | 189 programming interview questions and solutions. | [Visit](https://amzn.to/2NB7LhL) |
+| [Data Modeling and Design](https://amzn.to/2Zv6ACn) | declining | Data modeling and design fundamentals. | [Visit](https://amzn.to/2Zv6ACn) |
+| [Design Patterns (GoF)](https://amzn.to/2I6RYRD) | core | Classic catalog of reusable object-oriented patterns. | [Visit](https://amzn.to/2I6RYRD) |
+| [Domain-Driven Design](https://amzn.to/2GLBGy1) | core | Strategic and tactical patterns for complex domains. | [Visit](https://amzn.to/2GLBGy1) |
+| [Enterprise Integration Patterns](https://amzn.to/2OCCewA) | niche | Messaging and integration pattern catalog. | [Visit](https://amzn.to/2OCCewA) |
+| [Head First Design Patterns](https://amzn.to/2YGnEIo) | core | Beginner-friendly introduction to design patterns. | [Visit](https://amzn.to/2YGnEIo) |
+| [Introduction to Algorithms (CLRS)](https://amzn.to/2DzyEOv) | core | Comprehensive algorithms reference. | [Visit](https://amzn.to/2DzyEOv) |
+| [Object Design](https://amzn.to/2KfDgdB) | declining | Roles, responsibilities, and collaborations in OO design. | [Visit](https://amzn.to/2KfDgdB) |
+| [Patterns of Enterprise Application Architecture](https://amzn.to/2M0nndl) | core | Patterns for enterprise application design. | [Visit](https://amzn.to/2M0nndl) |
+| [Peopleware](https://amzn.to/2IcqSZz) | niche | Human factors and productivity in software teams. | [Visit](https://amzn.to/2IcqSZz) |
+| [Real-World Algorithms](https://amzn.to/2QVeZLx) | niche | Applied algorithm concepts for beginners. | [Visit](https://amzn.to/2QVeZLx) |
+| [The Pragmatic Programmer](https://amzn.to/2xMm342) | core | Pragmatic approaches to software craftsmanship. | [Visit](https://amzn.to/2xMm342) |
+| [UML Distilled](https://amzn.to/2MC5alF) | legacy | Lightweight guide to UML. | [Visit](https://amzn.to/2MC5alF) |
+| [Designing Data-Intensive Applications](https://amzn.to/3example-ddia) | core | Modern architectures for reliable, scalable, maintainable systems. | [Visit](https://amzn.to/3example-ddia) |
 
-| Name                                                       | Description                                                                                                                                                                                          | Source Code                                      | Website                                               | Twitter                                       |
-| ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ----------------------------------------------------- | --------------------------------------------- |
-| [Browserify](http://browserify.org/?developerstash)        | Browserify is an open-source JavaScript tool that allows developers to write Node.js-style modules that compile for use in the browser.                                                              | [Repo](https://github.com/browserify/browserify) | [View](http://browserify.org/?developerstash)         | [@browserify](https://twitter.com/browserify) |
-| [Parcel](https://parceljs.org/?developerstash)             | Blazing fast, zero configuration web application bundler.                                                                                                                                            | [Repo](https://github.com/parcel-bundler/parcel) | [View](https://parceljs.org/?developerstash)          | [@parceljs](https://twitter.com/parceljs)     |
-| [Rollup.js](https://rollupjs.org/guide/en/?developerstash) | Rollup is a module bundler for JavaScript which compiles small pieces of code into something larger and more complex, such as a library or application.                                              | [Repo](https://github.com/rollup/rollup)         | [View](https://rollupjs.org/guide/en/?developerstash) | [@RollupJS](https://twitter.com/RollupJS)     |
-| [Webpack](https://webpack.js.org/?developerstash)          | Webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset. | [Repo](https://github.com/webpack/webpack)       | [View](https://webpack.js.org/?developerstash)        | [@webpack](https://twitter.com/webpack)       |
+### Build & Bundling Tools
 
-### Cloud Providers
+Tooling for transforming, bundling, and serving code.
 
-| Name                                                                      | Description                                                                                                                                                                         | Website                                                           | Twitter                                             |
-| ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | --------------------------------------------------- |
-| [DigitalOcean](https://www.digitalocean.com/?developerstash)              | We make it simple to launch in the cloud and scale up as you grow—whether you’re running one virtual machine or ten thousand.                                                       | [View](https://www.digitalocean.com/?developerstash)              | [@digitalocean](https://twitter.com/digitalocean)   |
-| [Heroku](https://www.heroku.com/home/?developerstash)                     | Heroku is a cloud platform that lets companies build, deliver, monitor and scale apps — we're the fastest way to go from idea to URL, bypassing all those infrastructure headaches. | [View](https://www.heroku.com/home/?developerstash)               | [@heroku](https://twitter.com/heroku)               |
-| [Alibaba Cloud](https://www.alibabacloud.com/?developerstash)             | Alibaba Cloud offers reliable and secure cloud computing services and solutions at competitive prices.                                                                              | [View](https://www.alibabacloud.com/?developerstash)              | [@alibaba_cloud](https://twitter.com/alibaba_cloud) |
-| [Amazon Web Services (AWS)](https://aws.amazon.com/?developerstash)       | Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use.                                                   | [View](https://aws.amazon.com/?developerstash)                    | [@awscloud](https://twitter.com/awscloud)           |
-| [Azure](https://azure.microsoft.com/?developerstash)                      | Microsoft Azure is an open, flexible, enterprise-grade cloud computing platform. Move faster, do more, and save money with IaaS + PaaS.                                             | [View](https://azure.microsoft.com/?developerstash)               | [@azure](https://twitter.com/azure)                 |
-| [Google Cloud](https://cloud.google.com/why-google-cloud/?developerstash) | Let’s solve your toughest problems and grow your business. Learn about our multilayered security, expert support, flexible technology & accessible AI/ML.                           | [View](https://cloud.google.com/why-google-cloud/?developerstash) | [@googlecloud](https://twitter.com/googlecloud)     |
-| [IBM Cloud](https://www.ibm.com/cloud/?developerstash)                    | IBM's one-stop cloud computing shop provides all the cloud solutions and IBM cloud tools you need.                                                                                  | [View](https://www.ibm.com/cloud/?developerstash)                 | [@IBMcloud](https://twitter.com/IBMcloud)           |
+| Name | Status | Description | Website |
+| --- | --- | --- | --- |
+| [Browserify](http://browserify.org/) | legacy | Node-style module bundling for the browser. | [Visit](http://browserify.org/) |
+| [Parcel](https://parceljs.org/) | niche | Zero-config web application bundler. | [Visit](https://parceljs.org/) |
+| [Rollup](https://rollupjs.org/guide/en/) | core | Bundler optimized for libraries and tree-shaking. | [Visit](https://rollupjs.org/guide/en/) |
+| [Webpack](https://webpack.js.org/) | core | Mature, highly configurable module bundler. | [Visit](https://webpack.js.org/) |
+| [Vite](https://vitejs.dev/) | core | Fast dev server and build tool leveraging ES modules. | [Visit](https://vitejs.dev/) |
+| [esbuild](https://esbuild.github.io/) | core | Extremely fast bundler and minifier written in Go. | [Visit](https://esbuild.github.io/) |
+| [SWC](https://swc.rs/) | emerging | Rust-based platform for fast JavaScript/TypeScript compilation. | [Visit](https://swc.rs/) |
+| [Turbopack](https://turbo.build/pack) | emerging | Next-gen Rust-based bundler (early stage) aimed at React/Next.js. | [Visit](https://turbo.build/pack) |
+
+### Cloud Providers & Platforms
+
+Infrastructure and deployment platforms.
+
+| Name | Status | Description | Website |
+| --- | --- | --- | --- |
+| [AWS](https://aws.amazon.com/) | core | Broadest set of cloud infrastructure services. | [Visit](https://aws.amazon.com/) |
+| [Azure](https://azure.microsoft.com/) | core | Enterprise-focused cloud platform with deep Microsoft ecosystem integration. | [Visit](https://azure.microsoft.com/) |
+| [Google Cloud](https://cloud.google.com/) | core | Cloud platform with strong data & ML services. | [Visit](https://cloud.google.com/) |
+| [DigitalOcean](https://m.do.co/c/9f23ce7d16e1?ref=rcrdo.com) | niche | Simpler cloud infrastructure for small to medium workloads. | [Visit](https://m.do.co/c/9f23ce7d16e1?ref=rcrdo.com) |
+| [Heroku](https://www.heroku.com/) | legacy | PaaS for rapid app deployment (reduced adoption after free tier removal). | [Visit](https://www.heroku.com/) |
+| [IBM Cloud](https://www.ibm.com/cloud/) | niche | Hybrid and enterprise workload focus. | [Visit](https://www.ibm.com/cloud/) |
+| [Alibaba Cloud](https://www.alibabacloud.com/) | niche | Major Asia-Pacific cloud provider. | [Visit](https://www.alibabacloud.com/) |
+| [Cloudflare](https://www.cloudflare.com/) | emerging | Global edge network with serverless compute (Workers) and static hosting. | [Visit](https://www.cloudflare.com/) |
+| [Vercel](https://vercel.com/) | core | Frontend-centric platform with edge & serverless functions. | [Visit](https://vercel.com/) |
+| [Netlify](https://www.netlify.com/) | core | Jamstack & edge deployment platform. | [Visit](https://www.netlify.com/) |
+| [Fly.io](https://fly.io/) | emerging | Run full-stack apps close to users globally. | [Visit](https://fly.io/) |
+| [Render](https://render.com/) | emerging | Unified cloud for static sites, services, and databases. | [Visit](https://render.com/) |
 
 ### Code Editors
 
-| Name                                                                | Description                                                                                                                                                                                                                                       | Source Code                                                    | Website                                                | Twitter                                           |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------- |
-| [Phoenix Code](https://phcode.io/#/home)                              | A text editor designed to make coding as intuitive and fun as playing a video game - specially crafted for web developers, designers, and students. | [Repo](https://github.com/phcode-dev/) | [View](https://phcode.io/#/home) | [@Phcodedev](https://twitter.com/phcodedev) |
-| [Zed](https://zed.dev/?developerstash) | Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. It's also open source. | [Repo](https://github.com/zed-industries/zed) | [View](https://zed.dev/?developerstash) | [@Zeddotdev](https://twitter.com/zeddotdev) | 
-| [Atom](https://atom.io/?developerstash)                             | A hackable text editor for the 21st Century                                                                                                                                                                                                       | [Repo](https://github.com/atom/atom)                           | [View](https://atom.io/?developerstash)                | [@AtomEditor](https://twitter.com/AtomEditor)     |
-| [Brackets](http://brackets.io/?developerstash)                      | A modern, open source text editor that understands web design.                                                                                                                                                                                    | [Repo](https://github.com/adobe/brackets)                      | [View](http://brackets.io/?developerstash)             | [@brackets](https://twitter.com/brackets)         |
-| [Coda](https://panic.com/coda/?developerstash)                      | You code for the web. You demand a fast, clean, and powerful text editor.                                                                                                                                                                         |                                                                | [View](https://panic.com/coda/?developerstash)         | []()                                              |
-| [IntelliJ IDEA](https://www.jetbrains.com/idea/?developerstash)     | IntelliJ IDEA: The Java IDE for Professional Developers by JetBrains                                                                                                                                                                              | [Repo]()                                                       | [View](https://www.jetbrains.com/idea/?developerstash) | [@jetbrains](https://twitter.com/jetbrains)       |
-| [Notepad++](https://notepad-plus-plus.org/?developerstash)          | Notepad++ is an open source replacement for the original Notepad program (which comes with Windows) and supports several languages. Even though it is built for Microsoft Windows, it can also run on Linux, Unix, BSD and macOS (using Wine).     | [Repo](https://github.com/notepad-plus-plus/notepad-plus-plus) | [View](https://notepad-plus-plus.org/?developerstash)  | [@notepad_plus](https://twitter.com/notepad_plus) |
-| [Sublime Text](https://www.sublimetext.com/?developerstash)         | Sublime Text is a sophisticated text editor for code, markup and prose.                                                                                                                                                                           | [Repo]()                                                       | [View](https://www.sublimetext.com/?developerstash)    | [@sublimehq](https://twitter.com/sublimehq)       |
-| [TextMate](https://macromates.com/?developerstash)                  | TextMate brings Apple’s approach to operating systems into the world of text editors. By bridging UNIX underpinnings and GUI, TextMate cherry-picks the best of both worlds to the benefit of expert scripters and novice users alike.            |                                                                | [View](https://macromates.com/?developerstash)         | [@macromates](https://twitter.com/macromates)     |
-| [Visual Studio Code](https://code.visualstudio.com/?developerstash) | Code editing. Redefined. Free. Open source. Runs everywhere.                                                                                                                                                                                      | [Repo](https://github.com/Microsoft/vscode/)                   | [View](https://code.visualstudio.com/?developerstash)  | [@code](https://twitter.com/code)                 |
+Text and code editors used by developers.
+
+| Name | Status | Description | Website |
+| --- | --- | --- | --- |
+| [Visual Studio Code](https://code.visualstudio.com/) | core | Extensible, cross-platform code editor. | [Visit](https://code.visualstudio.com/) |
+| [IntelliJ IDEA](https://www.jetbrains.com/idea/) | core | Powerful IDE for JVM and polyglot development. | [Visit](https://www.jetbrains.com/idea/) |
+| [Zed](https://zed.dev/) | emerging | High-performance, collaborative code editor. | [Visit](https://zed.dev/) |
+| [Phoenix Code](https://phcode.io/#/home) | emerging | Gamified and intuitive coding experience. | [Visit](https://phcode.io/#/home) |
+| [Sublime Text](https://www.sublimetext.com/) | niche | Fast and lightweight proprietary editor. | [Visit](https://www.sublimetext.com/) |
+| [Notepad++](https://notepad-plus-plus.org/) | niche | Windows-focused open source text editor. | [Visit](https://notepad-plus-plus.org/) |
+| [Atom](https://atom.io/) | deprecated | Archived hackable text editor (GitHub sunsetted 2022). | [Visit](https://atom.io/) |
+| [Brackets](http://brackets.io/) | deprecated | Discontinued web development editor. | [Visit](http://brackets.io/) |
+| [Coda (Nova)](https://nova.app/) | niche | Successor to Coda—modern macOS code editor. | [Visit](https://nova.app/) |
+| [TextMate](https://macromates.com/) | legacy | macOS-focused extensible editor. | [Visit](https://macromates.com/) |
+| [Neovim](https://neovim.io/) | core | Modern Vim fork with Lua extensibility. | [Visit](https://neovim.io/) |
+| [Helix](https://helix-editor.com/) | emerging | Modal editor with tree-sitter integration. | [Visit](https://helix-editor.com/) |
 
 ### Code Management
 
-| Name                                | Description                                                                                                                                                                                     | Website                        | Twitter                                      |
-| ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | -------------------------------------------- |
-| [GitHub](https://github.com/)       | GitHub is a development platform inspired by the way you work. From open source to business, you can host and review code, manage projects, and build software alongside 31 million developers. | [View](https://github.com/)    | [@github](https://twitter.com/github/)       |
-| [Bitbucket](https://bitbucket.org/) | Bitbucket is more than just Git code management. Bitbucket gives teams one place to plan projects, collaborate on code, test, and deploy.                                                       | [View](https://bitbucket.org/) | [@bitbucket](https://twitter.com/bitbucket/) |
+Hosted version control and collaboration platforms.
 
-### Coding Courses
+| Name | Status | Description | Website |
+| --- | --- | --- | --- |
+| [GitHub](https://github.com/) | core | Dominant platform for open source and collaboration. | [Visit](https://github.com/) |
+| [GitLab](https://gitlab.com/) | core | Integrated DevOps lifecycle platform. | [Visit](https://gitlab.com/) |
+| [Bitbucket](https://bitbucket.org/) | niche | Git hosting integrated with Atlassian tools. | [Visit](https://bitbucket.org/) |
+| [SourceHut](https://sourcehut.org/) | niche | Minimalist, email-centric development platform. | [Visit](https://sourcehut.org/) |
+| [Gitea](https://gitea.io/) | emerging | Lightweight self-hosted Git service. | [Visit](https://gitea.io/) |
 
-| Name                                                                  | Description                                                                                                                                                                                                                                                                                  | Website                                                       | Twitter                                           |
-| --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------- |
-| [freeCodeCamp](https://www.freecodecamp.org)                          | freeCodeCamp is a community of people around the world who are learning to code together. We're a 501(c)(3) public charity.                                                                                                                                                                  | [View](https://www.freecodecamp.org/?developerstash)          | [@freecodecamp](https://twitter.com/freecodecamp) |
-| [Codecademy](https://www.codecademy.com/?developerstash)              | Learn the technical skills you need for the job you want. As leaders in online education and learning to code, we’ve taught over 45 million people using a tested curriculum and an interactive learning environment. Start with HTML, CSS, JavaScript, SQL, Python, Data Science, and more. | [View](https://www.codecademy.com/?developerstash)            | [@codecademy](https://twitter.com/codecademy)     |
-| [Hack Design](https://hackdesign.org/?developerstash)                 | An easy to follow design course for people who do amazing things. Receive a design lesson in your inbox each week, hand crafted by a design pro. Learn at your own pace, and apply it to your real life work – no fake projects here.                                                        | [View](https://hackdesign.org/?developerstash)                | [@hackdesign](https://twitter.com/hackdesign)     |
-| [Khan Academy](https://www.khanacademy.org/computing/?developerstash) | You can learn anything. For free. For everyone. Forever.                                                                                                                                                                                                                                     | [View](https://www.khanacademy.org/computing/?developerstash) | [@khanacademy](https://twitter.com/khanacademy)   |
-| [Pluralsight](https://www.pluralsight.com/?developerstash)            | Grow your skills with experiences like assessments, paths and expert-led content on today’s most in-demand technologies.                                                                                                                                                                     | [View](https://www.pluralsight.com/?developerstash)           | [@pluralsight](https://twitter.com/pluralsight)   |
-| [Treehouse](https://teamtreehouse.com/?developerstash)                | Learn web design, coding and much more with Treehouse. You can learn at your own pace and become job ready within months. Start your free trial!                                                                                                                                             | [View](https://teamtreehouse.com/?developerstash)             | [@treehouse](https://twitter.com/treehouse)       |
-| [Udacity](https://www.udacity.com/?developerstash)                    | Join Udacity to learn the latest in Deep Learning, Machine Learning, Web Development & more, with Nanodegree programs & free online courses.                                                                                                                                                 | [View](https://www.udacity.com/?developerstash)               | [@udacity](https://twitter.com/udacity)           |
+### Coding Courses & Learning
 
-### Databases
+Educational platforms and structured learning resources.
 
-| Name                                               | Description                                                                                                                                                                                                                                                                                                                                                                                      | Source Code                                  | Website                                         | Twitter                                       |
-| -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------- | ----------------------------------------------- | --------------------------------------------- |
-| [Cubrid](https://www.cubrid.org/?developerstash)   | CUBRID is a great free and open source option optimized specifically for web applications, useful when complex web services process large amounts of data and generate huge concurrent requests. This solution is implemented in C.                                                                                                                                                              | [Repo](https://github.com/CUBRID)            | [View](https://www.cubrid.org/?developerstash)  | [@CUBRID](https://twitter.com/CUBRID)         |
-| [MariaDB](https://mariadb.com/?developerstash)     | Made by the original developers of MySQL, MariaDB is used by tech giants like Wikipedia, Facebook, and even Google. MariaDB is a database server that offers drop-in replacement functionality for MySQL. Security is a top concern and priority for MariaDB developers, and in each solution release, the developers also merge in all of MySQL’s security patches and enhance them if need be. | [Repo](https://github.com/MariaDB)           | [View](https://mariadb.com/?developerstash)     | [@mariadb](https://twitter.com/mariadb)       |
-| [MongoDB](https://www.mongodb.com/?developerstash) | MongoDB is a document database with the scalability and flexibility that you want with the querying and indexing that you need.                                                                                                                                                                                                                                                                  | [Repo](https://github.com/mongodb)           | [View](https://www.mongodb.com/?developerstash) | [@mongodb](https://twitter.com/mongodb)       |
-| [MySQL](https://www.mysql.com/?developerstash)     | The world's most popular open source database.                                                                                                                                                                                                                                                                                                                                                   | [Repo](https://github.com/mysql)             | [View](https://www.mysql.com/?developerstash)   | [@mysql](https://twitter.com/mysql)           |
-| [PostgreSQL](https://www.postgresql.org/)          | Free open source post-relational database system that runs on all major operating systems. PostgreSQL's 25 year development history provides a huge range of features for Developers and DBAs, delivered in a robust software server used world-wide. PostgreSQL is rated in the top 5 databases by DBEngine, above most commercial systems.                                                     | [Repo](https://github.com/postgres/postgres) | [View](https://www.postgresql.org/)             | [@postgresql](https://twitter.com/postgresql) |
-| [SQLite](https://sqlite.org/index.html)            | SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. SQLite is the most used database engine in the world. It is built into all mobile phones and most computers and comes bundled inside countless other applications that people use every day.                                                                 | [Repo](https://github.com/mackyle/sqlite)    | [View](https://sqlite.org/index.html)           |                                               |
+| Name | Status | Description | Website |
+| --- | --- | --- | --- |
+| [freeCodeCamp](https://www.freecodecamp.org/) | core | Free, open source curriculum for full-stack development. | [Visit](https://www.freecodecamp.org/) |
+| [Codecademy](https://www.codecademy.com/) | core | Interactive programming lessons and career paths. | [Visit](https://www.codecademy.com/) |
+| [Hack Design](https://hackdesign.org/) | declining | Curated design lessons for developers. | [Visit](https://hackdesign.org/) |
+| [Khan Academy](https://www.khanacademy.org/computing/) | niche | Free educational content including CS fundamentals. | [Visit](https://www.khanacademy.org/computing/) |
+| [Pluralsight](https://www.pluralsight.com/) | core | Enterprise-focused technical skill development. | [Visit](https://www.pluralsight.com/) |
+| [Treehouse](https://teamtreehouse.com/) | declining | Online tech education platform. | [Visit](https://teamtreehouse.com/) |
+| [Udacity](https://www.udacity.com/) | niche | Project-based nanodegree programs. | [Visit](https://www.udacity.com/) |
+| [The Odin Project](https://www.theodinproject.com/) | core | Open source full-stack curriculum. | [Visit](https://www.theodinproject.com/) |
+| [Frontend Masters](https://frontendmasters.com/) | core | Expert-led frontend & full-stack courses. | [Visit](https://frontendmasters.com/) |
+| [Egghead.io](https://egghead.io/) | niche | Bite-sized developer video lessons. | [Visit](https://egghead.io/) |
+| [Exercism](https://exercism.org/) | core | Practice platform with mentor feedback. | [Visit](https://exercism.org/) |
 
-### JavaScript Frameworks and Libraries
+### Databases & Data Systems
 
-| Name                                               | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Source Code                                     | Website                                         | Twitter                                             |
-| -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | --------------------------------------------------- |
-| [Angular](https://angular.io/?developerstash)      | One framework. Mobile & desktop.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | [Repo](https://github.com/angular/angular)      | [View](https://angular.io/?developerstash)      | [@angular](https://twitter.com/angular)             |
-| [Aurelia](https://aurelia.io/?developerstash)      | Aurelia is a collection of Modern JavaScript modules, which when used together, function as a powerful platform for building browser, desktop and mobile applications, all open source and built on open web standards.                                                                                                                                                                                                                                                                                          | [Repo](https://github.com/aurelia/framework)    | [View](https://aurelia.io/?developerstash)      | [@aureliaeffect](https://twitter.com/aureliaeffect) |
-| [Ember](https://www.emberjs.com/?developerstash)   | A framework for ambitious web developers.                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | [Repo](https://github.com/emberjs/ember.js)     | [View](https://www.emberjs.com/?developerstash) | [@emberjs](http://twitter.com/emberjs)              |
-| [Knockout](https://knockoutjs.com/?developerstash) | Knockout is a JavaScript MVVM (a modern variant of MVC) library that makes it easier to create rich, desktop-like user interfaces with JavaScript and HTML. It uses observers to make your UI automatically stay in sync with an underlying data model, along with a powerful and extensible set of declarative bindings to enable productive development.                                                                                                                                                       | [Repo](https://github.com/knockout/knockout)    | [View](https://knockoutjs.com/?developerstash)  | [@knockout_js](https://twitter.com/knockout_js)     |
-| [Marko](https://markojs.com/?developerstash)       | A friendly (and fast!) UI library from eBay that makes building web apps fun.                                                                                                                                                                                                                                                                                                                                                                                                                                    | [Repo](https://github.com/marko-js/marko)       | [View](https://markojs.com/?developerstash)     |                                                     |
-| [Mithril](https://mithril.js.org/?developerstash)  | Mithril is a modern client-side Javascript framework for building Single Page Applications. It's small (< 8kb gzip), fast and provides routing and XHR utilities out of the box.                                                                                                                                                                                                                                                                                                                                 | [Repo](https://github.com/MithrilJS/mithril.js) | [View](https://mithril.js.org/?developerstash)  |                                                     |
-| [React](https://reactjs.org/?developerstash)       | A declarative, efficient, and flexible JavaScript library for building user interfaces.                                                                                                                                                                                                                                                                                                                                                                                                                          | [Repo](https://github.com/facebook/react)       | [View](https://reactjs.org/?developerstash)     | [@reactjs](https://twitter.com/reactjs)             |
-| [Vue.js](https://vuejs.org/?developerstash)        | Vue (pronounced /vjuː/, like view) is a progressive framework for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable. The core library is focused on the view layer only and is easy to pick up and integrate with other libraries or existing projects. Vue is also capable of powering sophisticated single-page applications when used with modern tooling and supporting libraries.                    | [Repo](https://github.com/vuejs/vue)            | [View](https://vuejs.org/?developerstash)       | [@vuejs](https://twitter.com/vuejs)                 |
+Operational, analytical, and emerging database technologies.
 
-### Mockups and Wireframing
+| Name | Status | Description | Website |
+| --- | --- | --- | --- |
+| [PostgreSQL](https://www.postgresql.org/) | core | Advanced open source relational database. | [Visit](https://www.postgresql.org/) |
+| [MySQL](https://www.mysql.com/) | core | Widely adopted open source relational database. | [Visit](https://www.mysql.com/) |
+| [MariaDB](https://mariadb.com/) | core | Community-driven fork of MySQL. | [Visit](https://mariadb.com/) |
+| [SQLite](https://sqlite.org/) | core | Embedded relational database engine. | [Visit](https://sqlite.org/) |
+| [MongoDB](https://www.mongodb.com/) | core | Document-oriented NoSQL database. | [Visit](https://www.mongodb.com/) |
+| [Redis](https://redis.io/) | core | In-memory data structure store and cache. | [Visit](https://redis.io/) |
+| [ClickHouse](https://clickhouse.com/) | emerging | Column-oriented OLAP database for analytics. | [Visit](https://clickhouse.com/) |
+| [PlanetScale](https://planetscale.com/) | emerging | Serverless MySQL platform built on Vitess. | [Visit](https://planetscale.com/) |
+| [Supabase](https://supabase.com/) | emerging | Open source Firebase alternative built on Postgres. | [Visit](https://supabase.com/) |
+| [Cassandra](https://cassandra.apache.org/_/) | niche | Distributed wide-column NoSQL database. | [Visit](https://cassandra.apache.org/_/) |
+| [Neo4j](https://neo4j.com/) | niche | Native property graph database. | [Visit](https://neo4j.com/) |
+| [Cubrid](https://www.cubrid.org/) | niche | Open source relational database optimized for web apps. | [Visit](https://www.cubrid.org/) |
 
-| Name                                                                        | Description                                                                                                                                                                                                                                                                                                                                                                                                                               | Website                                                              | Twitter                                         |
-| --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ----------------------------------------------- |
-| [Adobe XD CC](https://www.adobe.com/uk/products/xd.html?developerstash)     | Adobe Xd allows you to wireframe as just part of its suite of prototyping tools, which takes you through the whole process of sketching wireframes; collaboration with your team; creating site maps, flowcharts and storyboards; building functional prototypes; and much more. You can try Adobe Xd out for free but as usual you need a Creative Cloud subscription to take full advantage of Xd's incredible smorgasbord of features. | [View](https://www.adobe.com/uk/products/xd.html?developerstash)     |                                                 |
-| [Balsamiq Mockups](https://balsamiq.com/?developerstash)                    | Balsamiq Mockups includes several drag-and-drop elements, from buttons to lists, each styled as a hand-drawing. The basic premise behind this wireframing tool is to keep the mock-ups 'intentionally rough and low fidelity', to encourage as much feedback as possible.                                                                                                                                                                 | [View](https://balsamiq.com/?developerstash)                         | [@balsamiq](https://twitter.com/balsamiq)       |
-| [Fluid UI](https://www.fluidui.com/?developerstash)                         | Fluid UI has 16 built-in libraries for iOS, Android, Windows and more, and pages are created by dragging in elements from these libraries. This app provides a great way for you to map out your projects visually by creating links to join screens, forming a diagram of how everything fits together. Hovering over a link gives you the option to change the kind of transition you're using.                                         | [View](https://www.fluidui.com/?developerstash)                      | [@FluidUI](https://twitter.com/FluidUI)         |
-| [InDesign CC](https://www.adobe.com/products/indesign.html?developerstash) | By including animations, video and object states, InDesign can be used to create an interactive PDF that acts as a wireframe for your website or app. The software also includes the ability to create libraries of page elements, so you can create collections of various reusable interface graphics.                                                                                                                                  | [View](https://www.adobe.com/products/indesign.html?developerstash) |                                                 |
-| [Wireframe.cc](https://wireframe.cc/)                                       | Wireframe.cc offers a clutter-free environment instead of countless toolbars and icons that we all know from other tools and apps. You can now focus on your ideas and easily sketch them before they fade away.                                                                                                                                                                                                                          | [View](https://wireframe.cc/)                                        | [@wireframecc](https://twitter.com/wireframecc) |
+### JavaScript Frameworks & Libraries
+
+Libraries and frameworks for building user interfaces and web apps.
+
+| Name | Status | Description | Website |
+| --- | --- | --- | --- |
+| [React](https://reactjs.org/) | core | Declarative UI library for building component-based interfaces. | [Visit](https://reactjs.org/) |
+| [Vue.js](https://vuejs.org/) | core | Progressive framework for building user interfaces. | [Visit](https://vuejs.org/) |
+| [Angular](https://angular.io/) | core | Batteries-included framework for scalable applications. | [Visit](https://angular.io/) |
+| [Svelte](https://svelte.dev/) | emerging | Compiler-based framework producing highly optimized JavaScript. | [Visit](https://svelte.dev/) |
+| [SolidJS](https://www.solidjs.com/) | emerging | Fine-grained reactive UI library. | [Visit](https://www.solidjs.com/) |
+| [Ember](https://emberjs.com/) | legacy | Convention-over-configuration framework. | [Visit](https://emberjs.com/) |
+| [Knockout](https://knockoutjs.com/) | legacy | MVVM library for data-driven UIs. | [Visit](https://knockoutjs.com/) |
+| [Marko](https://markojs.com/) | niche | Fast UI framework with streaming and partial hydration. | [Visit](https://markojs.com/) |
+| [Mithril](https://mithril.js.org/) | niche | Lightweight SPA framework. | [Visit](https://mithril.js.org/) |
+| [Qwik](https://qwik.builder.io/) | emerging | Resumable framework optimized for instant startup. | [Visit](https://qwik.builder.io/) |
+| [Astro](https://astro.build/) | emerging | Content-focused framework with island architecture. | [Visit](https://astro.build/) |
+
+### Mockups & Wireframing
+
+Tools for UX wireframing, prototyping, and interface design.
+
+| Name | Status | Description | Website |
+| --- | --- | --- | --- |
+| [Figma](https://www.figma.com/) | core | Collaborative interface design and prototyping platform. | [Visit](https://www.figma.com/) |
+| [Penpot](https://penpot.app/) | emerging | Open source design & prototyping platform. | [Visit](https://penpot.app/) |
+| [Balsamiq](https://balsamiq.com/) | core | Low-fidelity wireframing tool. | [Visit](https://balsamiq.com/) |
+| [Wireframe.cc](https://wireframe.cc/) | niche | Minimalist wireframing environment. | [Visit](https://wireframe.cc/) |
+| [Adobe XD](https://www.adobe.com/products/xd.html) | declining | Design & prototyping tool (declining after Figma dominance). | [Visit](https://www.adobe.com/products/xd.html) |
+| [InDesign](https://www.adobe.com/products/indesign.html) | legacy | Desktop publishing tool occasionally repurposed for UI layouts. | [Visit](https://www.adobe.com/products/indesign.html) |
+| [Fluid UI](https://www.fluidui.com/) | niche | Rapid prototyping tool with component libraries. | [Visit](https://www.fluidui.com/) |
 
 ## Getting involved
 
-I need help adding more resources and keeping things up to date. If you are interested, please submit your idea or any contribution and I'd gladly review it and add it to the list if needed.
+Contributions welcome. Update `_data/resources.yml` and run `scripts/generate_readme.rb`.
 
 ## License
 
