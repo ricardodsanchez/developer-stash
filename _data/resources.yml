@@ -244,6 +244,10 @@ categories:
         url: https://phcode.io/#/home
         description: Gamified and intuitive coding experience.
         status: emerging
+      - name: Cursor
+        url: https://www.cursor.com/
+        description: AI-native code editor with integrated pair programming assistant.
+        status: emerging
       - name: Sublime Text
         url: https://www.sublimetext.com/
         description: Fast and lightweight proprietary editor.
@@ -485,6 +489,43 @@ categories:
         url: https://www.fluidui.com/
         description: Rapid prototyping tool with component libraries.
         status: niche
+
+  - id: ai_tools
+    title: AI Tools & Assistants
+    description: AI-powered developer assistants, model platforms, and orchestration tooling.
+    resources:
+      - name: ChatGPT
+        url: https://chat.openai.com/
+        description: Conversational AI assistant for ideation, coding, and research.
+        status: core
+      - name: Gemini
+        url: https://ai.google/
+        description: Google multimodal AI models and assistant experience.
+        status: emerging
+      - name: Claude
+        url: https://claude.ai/
+        description: Anthropic's constitutional AI assistant focused on helpfulness and safety.
+        status: emerging
+      - name: GitHub Copilot
+        url: https://github.com/features/copilot
+        description: AI pair programmer integrated into popular IDEs.
+        status: core
+      - name: OpenAI API
+        url: https://platform.openai.com/
+        description: API access to GPT family and multimodal foundation models.
+        status: core
+      - name: Ollama
+        url: https://ollama.ai/
+        description: Run and manage open-source LLMs locally with simple CLI.
+        status: emerging
+      - name: Poe
+        url: https://poe.com/
+        description: Unified chat interface aggregating multiple AI models.
+        status: niche
+      - name: LangChain
+        url: https://www.langchain.com/
+        description: Framework for building LLM-powered applications and agents.
+        status: core
 
 status_legend:
   core: Widely adopted and actively maintained.

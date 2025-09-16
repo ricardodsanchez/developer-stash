@@ -2,7 +2,7 @@
 
 Curated resources and tools for developers. Generated from structured data.
 
-![Last Generated](https://img.shields.io/static/v1?label=last_generated&message=2025-09-16&color=blue&style=flat-square) ![Last Vetted](https://img.shields.io/static/v1?label=last_vetted&message=2025-09-15&color=green&style=flat-square) ![Resources](https://img.shields.io/static/v1?label=resources&message=102&color=purple&style=flat-square)
+![Last Generated](https://img.shields.io/static/v1?label=last_generated&message=2025-09-16&color=blue&style=flat-square) ![Last Vetted](https://img.shields.io/static/v1?label=last_vetted&message=2025-09-15&color=green&style=flat-square) ![Resources](https://img.shields.io/static/v1?label=resources&message=111&color=purple&style=flat-square)
 
 ## How to use it
 
@@ -31,6 +31,7 @@ Status legend:
 - [Databases & Data Systems](#databases-data-systems)
 - [JavaScript Frameworks & Libraries](#javascript-frameworks-libraries)
 - [Mockups & Wireframing](#mockups-wireframing)
+- [AI Tools & Assistants](#ai-tools-assistants)
 
 ### Blogs
 
@@ -114,6 +115,7 @@ Text and code editors used by developers.
 | [IntelliJ IDEA](https://www.jetbrains.com/idea/) | core | Powerful IDE for JVM and polyglot development. | [Visit](https://www.jetbrains.com/idea/) |
 | [Zed](https://zed.dev/) | emerging | High-performance, collaborative code editor. | [Visit](https://zed.dev/) |
 | [Phoenix Code](https://phcode.io/#/home) | emerging | Gamified and intuitive coding experience. | [Visit](https://phcode.io/#/home) |
+| [Cursor](https://www.cursor.com/) | emerging | AI-native code editor with integrated pair programming assistant. | [Visit](https://www.cursor.com/) |
 | [Sublime Text](https://www.sublimetext.com/) | niche | Fast and lightweight proprietary editor. | [Visit](https://www.sublimetext.com/) |
 | [Notepad++](https://notepad-plus-plus.org/) | niche | Windows-focused open source text editor. | [Visit](https://notepad-plus-plus.org/) |
 | [Atom](https://atom.io/) | deprecated | Archived hackable text editor (GitHub sunsetted 2022). | [Visit](https://atom.io/) |
@@ -203,6 +205,21 @@ Tools for UX wireframing, prototyping, and interface design.
 | [Adobe XD](https://www.adobe.com/products/xd.html) | declining | Design & prototyping tool (declining after Figma dominance). | [Visit](https://www.adobe.com/products/xd.html) |
 | [InDesign](https://www.adobe.com/products/indesign.html) | legacy | Desktop publishing tool occasionally repurposed for UI layouts. | [Visit](https://www.adobe.com/products/indesign.html) |
 | [Fluid UI](https://www.fluidui.com/) | niche | Rapid prototyping tool with component libraries. | [Visit](https://www.fluidui.com/) |
+
+### AI Tools & Assistants
+
+AI-powered developer assistants, model platforms, and orchestration tooling.
+
+| Name | Status | Description | Website |
+| --- | --- | --- | --- |
+| [ChatGPT](https://chat.openai.com/) | core | Conversational AI assistant for ideation, coding, and research. | [Visit](https://chat.openai.com/) |
+| [Gemini](https://ai.google/) | emerging | Google multimodal AI models and assistant experience. | [Visit](https://ai.google/) |
+| [Claude](https://claude.ai/) | emerging | Anthropic's constitutional AI assistant focused on helpfulness and safety. | [Visit](https://claude.ai/) |
+| [GitHub Copilot](https://github.com/features/copilot) | core | AI pair programmer integrated into popular IDEs. | [Visit](https://github.com/features/copilot) |
+| [OpenAI API](https://platform.openai.com/) | core | API access to GPT family and multimodal foundation models. | [Visit](https://platform.openai.com/) |
+| [Ollama](https://ollama.ai/) | emerging | Run and manage open-source LLMs locally with simple CLI. | [Visit](https://ollama.ai/) |
+| [Poe](https://poe.com/) | niche | Unified chat interface aggregating multiple AI models. | [Visit](https://poe.com/) |
+| [LangChain](https://www.langchain.com/) | core | Framework for building LLM-powered applications and agents. | [Visit](https://www.langchain.com/) |
 
 ## Getting involved
 
