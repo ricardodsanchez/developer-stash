@@ -4,6 +4,8 @@
 require 'yaml'
 require 'date'
 require 'cgi'
+require 'json'
+require 'time'
 
 DATA_PATH = File.expand_path('../_data/resources.yml', __dir__)
 OUTPUT_PATH = File.expand_path('../README.md', __dir__)
@@ -22,6 +24,16 @@ total_resources = categories.map { |c| (c['resources'] || []).size }.sum
 generated_at_full = Time.now.utc # keep full time for potential future use
 # Use date only to reduce badge volatility / caching issues; still deterministic per day
 generated_date = generated_at_full.strftime('%Y-%m-%d')
+
+# Build a structured export for potential downstream consumption
+structured = {
+  'generated_at' => generated_at_full.iso8601,
+  'generated_date' => generated_date,
+  'last_vetted' => last_vetted,
+  'total_resources' => total_resources,
+  'categories' => categories,
+  'status_legend' => legend
+}
 
 # Helper to build markdown table rows with consistent pipes
 class Table
@@ -85,8 +97,20 @@ end
 
 categories.each do |cat|
   slug = github_slug(cat['title'])
-  readme << "- [#{cat['title']}](##{slug})"
+  count = (cat['resources'] || []).size
+  readme << "- [#{cat['title']}](##{slug}) (#{count})"
 end
+readme << ''
+
+# Quickstart contributor block
+readme << '### Quickstart'
+readme << ''
+readme << '1. Update `_data/resources.yml`'
+readme << '2. Run `ruby scripts/validate.rb && ruby scripts/generate_readme.rb`'
+readme << '3. Commit both the YAML and README changes'
+readme << '4. Open a Pull Request (status rationale required if non-obvious)'
+readme << ''
+readme << 'See `CONTRIBUTING.md` for full details.'
 readme << ''
 
 categories.each do |cat|
@@ -120,4 +144,6 @@ readme << 'MIT © Ricardo Sanchez'
 readme << ''
 
 File.write(OUTPUT_PATH, readme.join("\n"))
+# Also write machine-readable export
+File.write(File.expand_path('../resources.json', __dir__), JSON.pretty_generate(structured))
 puts "README generated successfully (#{OUTPUT_PATH})."

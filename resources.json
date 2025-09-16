@@ -1,0 +1,783 @@
+{
+  "generated_at": "2025-09-16T06:03:36Z",
+  "generated_date": "2025-09-16",
+  "last_vetted": "2025-09-15",
+  "total_resources": 111,
+  "categories": [
+    {
+      "id": "blogs",
+      "title": "Blogs",
+      "description": "Industry news, analysis, and technology commentary.",
+      "resources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/",
+          "description": "Serving the Technologist for more than a decade. IT news, reviews, and analysis.",
+          "twitter": "arstechnica",
+          "status": "core"
+        },
+        {
+          "name": "Daring Fireball",
+          "url": "https://daringfireball.net/",
+          "description": "Commentary by John Gruber.",
+          "twitter": "daringfireball",
+          "status": "core"
+        },
+        {
+          "name": "Hacker Noon",
+          "url": "https://hackernoon.com/",
+          "description": "Community-driven technology stories.",
+          "twitter": "hackernoon",
+          "status": "niche"
+        },
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/",
+          "description": "Reporting and analysis on emerging technologies.",
+          "twitter": "techreview",
+          "status": "core"
+        },
+        {
+          "name": "NY Times Tech (Bits)",
+          "url": "https://www.nytimes.com/section/technology",
+          "description": "Technology industry coverage from The New York Times.",
+          "twitter": "nytimestech",
+          "status": "legacy"
+        },
+        {
+          "name": "Stratechery",
+          "url": "https://stratechery.com/",
+          "description": "Analysis of the strategy and business of technology.",
+          "twitter": "stratechery",
+          "status": "core"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/",
+          "description": "Startup and tech industry news.",
+          "twitter": "TechCrunch",
+          "status": "core"
+        },
+        {
+          "name": "Wired",
+          "url": "https://www.wired.com/",
+          "description": "Technology, culture, and science coverage.",
+          "twitter": "wired",
+          "status": "core"
+        }
+      ]
+    },
+    {
+      "id": "books",
+      "title": "Books",
+      "description": "Foundational and influential software engineering literature.",
+      "resources": [
+        {
+          "name": "Clean Architecture",
+          "author": "Robert C. Martin",
+          "url": "https://amzn.to/3VRRwNI",
+          "description": "A craftsman's guide to software structure and design.",
+          "status": "core"
+        },
+        {
+          "name": "Code Complete",
+          "author": "Steve McConnell",
+          "url": "https://amzn.to/4nqq9Gc",
+          "description": "Practical handbook of software construction.",
+          "status": "core"
+        },
+        {
+          "name": "Cracking the Coding Interview",
+          "author": "Gayle Laakmann McDowell",
+          "url": "https://amzn.to/3Vkdh8S",
+          "description": "189 programming interview questions and solutions.",
+          "status": "core"
+        },
+        {
+          "name": "Data Modeling and Design",
+          "author": "Scannel and Umanath",
+          "url": "https://amzn.to/4n6eqgz",
+          "description": "Data modeling and design fundamentals.",
+          "status": "declining"
+        },
+        {
+          "name": "Design Patterns (GoF)",
+          "author": "Gamma, Helm, Johnson, Vlissides, Booch",
+          "url": "https://amzn.to/42xmCOi",
+          "description": "Classic catalog of reusable object-oriented patterns.",
+          "status": "core"
+        },
+        {
+          "name": "Domain-Driven Design",
+          "author": "Eric Evans",
+          "url": "https://amzn.to/4ndBkTi",
+          "description": "Strategic and tactical patterns for complex domains.",
+          "status": "core"
+        },
+        {
+          "name": "Enterprise Integration Patterns",
+          "author": "Gregor Hohpe",
+          "url": "https://amzn.to/4n4Engb",
+          "description": "Messaging and integration pattern catalog.",
+          "status": "niche"
+        },
+        {
+          "name": "Head First Design Patterns",
+          "author": "Freeman et al.",
+          "url": "https://amzn.to/2YGnEIo",
+          "description": "Beginner-friendly introduction to design patterns.",
+          "status": "core"
+        },
+        {
+          "name": "Introduction to Algorithms (CLRS)",
+          "author": "Cormen, Leiserson, Rivest, Stein",
+          "url": "https://amzn.to/3K2YxZz",
+          "description": "Comprehensive algorithms reference.",
+          "status": "core"
+        },
+        {
+          "name": "Object Design",
+          "author": "Wirfs-Brock and McKean",
+          "url": "https://amzn.to/4gmHJbW",
+          "description": "Roles, responsibilities, and collaborations in OO design.",
+          "status": "declining"
+        },
+        {
+          "name": "Patterns of Enterprise Application Architecture",
+          "author": "Martin Fowler",
+          "url": "https://amzn.to/46ooWso",
+          "description": "Patterns for enterprise application design.",
+          "status": "core"
+        },
+        {
+          "name": "Peopleware",
+          "author": "Tom DeMarco and Tim Lister",
+          "url": "https://amzn.to/3ImoylV",
+          "description": "Human factors and productivity in software teams.",
+          "status": "niche"
+        },
+        {
+          "name": "Real-World Algorithms",
+          "author": "Panos Louridas",
+          "url": "https://amzn.to/467kiA3",
+          "description": "Applied algorithm concepts for beginners.",
+          "status": "niche"
+        },
+        {
+          "name": "The Pragmatic Programmer",
+          "author": "Andrew Hunt and David Thomas",
+          "url": "https://amzn.to/46toMzV",
+          "description": "Pragmatic approaches to software craftsmanship.",
+          "status": "core"
+        },
+        {
+          "name": "UML Distilled",
+          "author": "Martin Fowler",
+          "url": "https://amzn.to/3VR6jbr",
+          "description": "Lightweight guide to UML.",
+          "status": "legacy"
+        },
+        {
+          "name": "Designing Data-Intensive Applications",
+          "author": "Martin Kleppmann",
+          "url": "https://amzn.to/4mhvhM4",
+          "description": "Modern architectures for reliable, scalable, maintainable systems.",
+          "status": "core"
+        }
+      ]
+    },
+    {
+      "id": "bundlers",
+      "title": "Build & Bundling Tools",
+      "description": "Tooling for transforming, bundling, and serving code.",
+      "resources": [
+        {
+          "name": "Browserify",
+          "url": "http://browserify.org/",
+          "description": "Node-style module bundling for the browser.",
+          "status": "legacy"
+        },
+        {
+          "name": "Parcel",
+          "url": "https://parceljs.org/",
+          "description": "Zero-config web application bundler.",
+          "status": "niche"
+        },
+        {
+          "name": "Rollup",
+          "url": "https://rollupjs.org/guide/en/",
+          "description": "Bundler optimized for libraries and tree-shaking.",
+          "status": "core"
+        },
+        {
+          "name": "Webpack",
+          "url": "https://webpack.js.org/",
+          "description": "Mature, highly configurable module bundler.",
+          "status": "core"
+        },
+        {
+          "name": "Vite",
+          "url": "https://vitejs.dev/",
+          "description": "Fast dev server and build tool leveraging ES modules.",
+          "status": "core"
+        },
+        {
+          "name": "esbuild",
+          "url": "https://esbuild.github.io/",
+          "description": "Extremely fast bundler and minifier written in Go.",
+          "status": "core"
+        },
+        {
+          "name": "SWC",
+          "url": "https://swc.rs/",
+          "description": "Rust-based platform for fast JavaScript/TypeScript compilation.",
+          "status": "emerging"
+        },
+        {
+          "name": "Turbopack",
+          "url": "https://turbo.build/pack",
+          "description": "Next-gen Rust-based bundler (early stage) aimed at React/Next.js.",
+          "status": "emerging"
+        }
+      ]
+    },
+    {
+      "id": "cloud",
+      "title": "Cloud Providers & Platforms",
+      "description": "Infrastructure and deployment platforms.",
+      "resources": [
+        {
+          "name": "AWS",
+          "url": "https://aws.amazon.com/",
+          "description": "Broadest set of cloud infrastructure services.",
+          "status": "core"
+        },
+        {
+          "name": "Azure",
+          "url": "https://azure.microsoft.com/",
+          "description": "Enterprise-focused cloud platform with deep Microsoft ecosystem integration.",
+          "status": "core"
+        },
+        {
+          "name": "Google Cloud",
+          "url": "https://cloud.google.com/",
+          "description": "Cloud platform with strong data & ML services.",
+          "status": "core"
+        },
+        {
+          "name": "DigitalOcean",
+          "url": "https://m.do.co/c/9f23ce7d16e1?ref=rcrdo.com",
+          "description": "Simpler cloud infrastructure for small to medium workloads.",
+          "status": "niche"
+        },
+        {
+          "name": "Heroku",
+          "url": "https://www.heroku.com/",
+          "description": "PaaS for rapid app deployment (reduced adoption after free tier removal).",
+          "status": "legacy"
+        },
+        {
+          "name": "IBM Cloud",
+          "url": "https://www.ibm.com/cloud/",
+          "description": "Hybrid and enterprise workload focus.",
+          "status": "niche"
+        },
+        {
+          "name": "Alibaba Cloud",
+          "url": "https://www.alibabacloud.com/",
+          "description": "Major Asia-Pacific cloud provider.",
+          "status": "niche"
+        },
+        {
+          "name": "Cloudflare",
+          "url": "https://www.cloudflare.com/",
+          "description": "Global edge network with serverless compute (Workers) and static hosting.",
+          "status": "emerging"
+        },
+        {
+          "name": "Vercel",
+          "url": "https://vercel.com/",
+          "description": "Frontend-centric platform with edge & serverless functions.",
+          "status": "core"
+        },
+        {
+          "name": "Netlify",
+          "url": "https://www.netlify.com/",
+          "description": "Jamstack & edge deployment platform.",
+          "status": "core"
+        },
+        {
+          "name": "Fly.io",
+          "url": "https://fly.io/",
+          "description": "Run full-stack apps close to users globally.",
+          "status": "emerging"
+        },
+        {
+          "name": "Render",
+          "url": "https://render.com/",
+          "description": "Unified cloud for static sites, services, and databases.",
+          "status": "emerging"
+        }
+      ]
+    },
+    {
+      "id": "editors",
+      "title": "Code Editors",
+      "description": "Text and code editors used by developers.",
+      "resources": [
+        {
+          "name": "Visual Studio Code",
+          "url": "https://code.visualstudio.com/",
+          "description": "Extensible, cross-platform code editor.",
+          "status": "core"
+        },
+        {
+          "name": "IntelliJ IDEA",
+          "url": "https://www.jetbrains.com/idea/",
+          "description": "Powerful IDE for JVM and polyglot development.",
+          "status": "core"
+        },
+        {
+          "name": "Zed",
+          "url": "https://zed.dev/",
+          "description": "High-performance, collaborative code editor.",
+          "status": "emerging"
+        },
+        {
+          "name": "Phoenix Code",
+          "url": "https://phcode.io/#/home",
+          "description": "Gamified and intuitive coding experience.",
+          "status": "emerging"
+        },
+        {
+          "name": "Cursor",
+          "url": "https://www.cursor.com/",
+          "description": "AI-native code editor with integrated pair programming assistant.",
+          "status": "emerging"
+        },
+        {
+          "name": "Sublime Text",
+          "url": "https://www.sublimetext.com/",
+          "description": "Fast and lightweight proprietary editor.",
+          "status": "niche"
+        },
+        {
+          "name": "Notepad++",
+          "url": "https://notepad-plus-plus.org/",
+          "description": "Windows-focused open source text editor.",
+          "status": "niche"
+        },
+        {
+          "name": "Atom",
+          "url": "https://atom.io/",
+          "description": "Archived hackable text editor (GitHub sunsetted 2022).",
+          "status": "deprecated"
+        },
+        {
+          "name": "Brackets",
+          "url": "http://brackets.io/",
+          "description": "Discontinued web development editor.",
+          "status": "deprecated"
+        },
+        {
+          "name": "Coda (Nova)",
+          "url": "https://nova.app/",
+          "description": "Successor to Coda—modern macOS code editor.",
+          "status": "niche"
+        },
+        {
+          "name": "TextMate",
+          "url": "https://macromates.com/",
+          "description": "macOS-focused extensible editor.",
+          "status": "legacy"
+        },
+        {
+          "name": "Neovim",
+          "url": "https://neovim.io/",
+          "description": "Modern Vim fork with Lua extensibility.",
+          "status": "core"
+        },
+        {
+          "name": "Helix",
+          "url": "https://helix-editor.com/",
+          "description": "Modal editor with tree-sitter integration.",
+          "status": "emerging"
+        }
+      ]
+    },
+    {
+      "id": "code_mgmt",
+      "title": "Code Management",
+      "description": "Hosted version control and collaboration platforms.",
+      "resources": [
+        {
+          "name": "GitHub",
+          "url": "https://github.com/",
+          "description": "Dominant platform for open source and collaboration.",
+          "status": "core"
+        },
+        {
+          "name": "GitLab",
+          "url": "https://gitlab.com/",
+          "description": "Integrated DevOps lifecycle platform.",
+          "status": "core"
+        },
+        {
+          "name": "Bitbucket",
+          "url": "https://bitbucket.org/",
+          "description": "Git hosting integrated with Atlassian tools.",
+          "status": "niche"
+        },
+        {
+          "name": "SourceHut",
+          "url": "https://sourcehut.org/",
+          "description": "Minimalist, email-centric development platform.",
+          "status": "niche"
+        },
+        {
+          "name": "Gitea",
+          "url": "https://gitea.io/",
+          "description": "Lightweight self-hosted Git service.",
+          "status": "emerging"
+        }
+      ]
+    },
+    {
+      "id": "courses",
+      "title": "Coding Courses & Learning",
+      "description": "Educational platforms and structured learning resources.",
+      "resources": [
+        {
+          "name": "freeCodeCamp",
+          "url": "https://www.freecodecamp.org/",
+          "description": "Free, open source curriculum for full-stack development.",
+          "status": "core"
+        },
+        {
+          "name": "Codecademy",
+          "url": "https://www.codecademy.com/",
+          "description": "Interactive programming lessons and career paths.",
+          "status": "core"
+        },
+        {
+          "name": "Hack Design",
+          "url": "https://hackdesign.org/",
+          "description": "Curated design lessons for developers.",
+          "status": "declining"
+        },
+        {
+          "name": "Khan Academy",
+          "url": "https://www.khanacademy.org/computing/",
+          "description": "Free educational content including CS fundamentals.",
+          "status": "niche"
+        },
+        {
+          "name": "Pluralsight",
+          "url": "https://www.pluralsight.com/",
+          "description": "Enterprise-focused technical skill development.",
+          "status": "core"
+        },
+        {
+          "name": "Treehouse",
+          "url": "https://teamtreehouse.com/",
+          "description": "Online tech education platform.",
+          "status": "declining"
+        },
+        {
+          "name": "Udacity",
+          "url": "https://www.udacity.com/",
+          "description": "Project-based nanodegree programs.",
+          "status": "niche"
+        },
+        {
+          "name": "The Odin Project",
+          "url": "https://www.theodinproject.com/",
+          "description": "Open source full-stack curriculum.",
+          "status": "core"
+        },
+        {
+          "name": "Frontend Masters",
+          "url": "https://frontendmasters.com/",
+          "description": "Expert-led frontend & full-stack courses.",
+          "status": "core"
+        },
+        {
+          "name": "Egghead.io",
+          "url": "https://egghead.io/",
+          "description": "Bite-sized developer video lessons.",
+          "status": "niche"
+        },
+        {
+          "name": "Exercism",
+          "url": "https://exercism.org/",
+          "description": "Practice platform with mentor feedback.",
+          "status": "core"
+        }
+      ]
+    },
+    {
+      "id": "databases",
+      "title": "Databases & Data Systems",
+      "description": "Operational, analytical, and emerging database technologies.",
+      "resources": [
+        {
+          "name": "PostgreSQL",
+          "url": "https://www.postgresql.org/",
+          "description": "Advanced open source relational database.",
+          "status": "core"
+        },
+        {
+          "name": "MySQL",
+          "url": "https://www.mysql.com/",
+          "description": "Widely adopted open source relational database.",
+          "status": "core"
+        },
+        {
+          "name": "MariaDB",
+          "url": "https://mariadb.com/",
+          "description": "Community-driven fork of MySQL.",
+          "status": "core"
+        },
+        {
+          "name": "SQLite",
+          "url": "https://sqlite.org/",
+          "description": "Embedded relational database engine.",
+          "status": "core"
+        },
+        {
+          "name": "MongoDB",
+          "url": "https://www.mongodb.com/",
+          "description": "Document-oriented NoSQL database.",
+          "status": "core"
+        },
+        {
+          "name": "Redis",
+          "url": "https://redis.io/",
+          "description": "In-memory data structure store and cache.",
+          "status": "core"
+        },
+        {
+          "name": "ClickHouse",
+          "url": "https://clickhouse.com/",
+          "description": "Column-oriented OLAP database for analytics.",
+          "status": "emerging"
+        },
+        {
+          "name": "PlanetScale",
+          "url": "https://planetscale.com/",
+          "description": "Serverless MySQL platform built on Vitess.",
+          "status": "emerging"
+        },
+        {
+          "name": "Supabase",
+          "url": "https://supabase.com/",
+          "description": "Open source Firebase alternative built on Postgres.",
+          "status": "emerging"
+        },
+        {
+          "name": "Cassandra",
+          "url": "https://cassandra.apache.org/_/",
+          "description": "Distributed wide-column NoSQL database.",
+          "status": "niche"
+        },
+        {
+          "name": "Neo4j",
+          "url": "https://neo4j.com/",
+          "description": "Native property graph database.",
+          "status": "niche"
+        },
+        {
+          "name": "Cubrid",
+          "url": "https://www.cubrid.org/",
+          "description": "Open source relational database optimized for web apps.",
+          "status": "niche"
+        }
+      ]
+    },
+    {
+      "id": "js_frameworks",
+      "title": "JavaScript Frameworks & Libraries",
+      "description": "Libraries and frameworks for building user interfaces and web apps.",
+      "resources": [
+        {
+          "name": "React",
+          "url": "https://reactjs.org/",
+          "description": "Declarative UI library for building component-based interfaces.",
+          "status": "core"
+        },
+        {
+          "name": "Vue.js",
+          "url": "https://vuejs.org/",
+          "description": "Progressive framework for building user interfaces.",
+          "status": "core"
+        },
+        {
+          "name": "Angular",
+          "url": "https://angular.io/",
+          "description": "Batteries-included framework for scalable applications.",
+          "status": "core"
+        },
+        {
+          "name": "Svelte",
+          "url": "https://svelte.dev/",
+          "description": "Compiler-based framework producing highly optimized JavaScript.",
+          "status": "emerging"
+        },
+        {
+          "name": "SolidJS",
+          "url": "https://www.solidjs.com/",
+          "description": "Fine-grained reactive UI library.",
+          "status": "emerging"
+        },
+        {
+          "name": "Ember",
+          "url": "https://emberjs.com/",
+          "description": "Convention-over-configuration framework.",
+          "status": "legacy"
+        },
+        {
+          "name": "Knockout",
+          "url": "https://knockoutjs.com/",
+          "description": "MVVM library for data-driven UIs.",
+          "status": "legacy"
+        },
+        {
+          "name": "Marko",
+          "url": "https://markojs.com/",
+          "description": "Fast UI framework with streaming and partial hydration.",
+          "status": "niche"
+        },
+        {
+          "name": "Mithril",
+          "url": "https://mithril.js.org/",
+          "description": "Lightweight SPA framework.",
+          "status": "niche"
+        },
+        {
+          "name": "Qwik",
+          "url": "https://qwik.builder.io/",
+          "description": "Resumable framework optimized for instant startup.",
+          "status": "emerging"
+        },
+        {
+          "name": "Astro",
+          "url": "https://astro.build/",
+          "description": "Content-focused framework with island architecture.",
+          "status": "emerging"
+        }
+      ]
+    },
+    {
+      "id": "mockups",
+      "title": "Mockups & Wireframing",
+      "description": "Tools for UX wireframing, prototyping, and interface design.",
+      "resources": [
+        {
+          "name": "Figma",
+          "url": "https://www.figma.com/",
+          "description": "Collaborative interface design and prototyping platform.",
+          "status": "core"
+        },
+        {
+          "name": "Penpot",
+          "url": "https://penpot.app/",
+          "description": "Open source design & prototyping platform.",
+          "status": "emerging"
+        },
+        {
+          "name": "Balsamiq",
+          "url": "https://balsamiq.com/",
+          "description": "Low-fidelity wireframing tool.",
+          "status": "core"
+        },
+        {
+          "name": "Wireframe.cc",
+          "url": "https://wireframe.cc/",
+          "description": "Minimalist wireframing environment.",
+          "status": "niche"
+        },
+        {
+          "name": "Adobe XD",
+          "url": "https://www.adobe.com/products/xd.html",
+          "description": "Design & prototyping tool (declining after Figma dominance).",
+          "status": "declining"
+        },
+        {
+          "name": "InDesign",
+          "url": "https://www.adobe.com/products/indesign.html",
+          "description": "Desktop publishing tool occasionally repurposed for UI layouts.",
+          "status": "legacy"
+        },
+        {
+          "name": "Fluid UI",
+          "url": "https://www.fluidui.com/",
+          "description": "Rapid prototyping tool with component libraries.",
+          "status": "niche"
+        }
+      ]
+    },
+    {
+      "id": "ai_tools",
+      "title": "AI Tools & Assistants",
+      "description": "AI-powered developer assistants, model platforms, and orchestration tooling.",
+      "resources": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chat.openai.com/",
+          "description": "Conversational AI assistant for ideation, coding, and research.",
+          "status": "core"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://ai.google/",
+          "description": "Google multimodal AI models and assistant experience.",
+          "status": "emerging"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "description": "Anthropic's constitutional AI assistant focused on helpfulness and safety.",
+          "status": "emerging"
+        },
+        {
+          "name": "GitHub Copilot",
+          "url": "https://github.com/features/copilot",
+          "description": "AI pair programmer integrated into popular IDEs.",
+          "status": "core"
+        },
+        {
+          "name": "OpenAI API",
+          "url": "https://platform.openai.com/",
+          "description": "API access to GPT family and multimodal foundation models.",
+          "status": "core"
+        },
+        {
+          "name": "Ollama",
+          "url": "https://ollama.ai/",
+          "description": "Run and manage open-source LLMs locally with simple CLI.",
+          "status": "emerging"
+        },
+        {
+          "name": "Poe",
+          "url": "https://poe.com/",
+          "description": "Unified chat interface aggregating multiple AI models.",
+          "status": "niche"
+        },
+        {
+          "name": "LangChain",
+          "url": "https://www.langchain.com/",
+          "description": "Framework for building LLM-powered applications and agents.",
+          "status": "core"
+        }
+      ]
+    }
+  ],
+  "status_legend": {
+    "core": "Widely adopted and actively maintained.",
+    "niche": "Useful but with a smaller or specialized user base.",
+    "legacy": "Historically important; limited new adoption.",
+    "deprecated": "Discontinued or archived; included for historical context only.",
+    "emerging": "Rapidly growing; watch for ecosystem maturity.",
+    "declining": "Still available but usage and momentum are decreasing."
+  }
+}

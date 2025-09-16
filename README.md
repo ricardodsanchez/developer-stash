@@ -21,17 +21,26 @@ Status legend:
 
 ## Index
 
-- [Blogs](#blogs)
-- [Books](#books)
-- [Build & Bundling Tools](#build-and-bundling-tools)
-- [Cloud Providers & Platforms](#cloud-providers-and-platforms)
-- [Code Editors](#code-editors)
-- [Code Management](#code-management)
-- [Coding Courses & Learning](#coding-courses-and-learning)
-- [Databases & Data Systems](#databases-and-data-systems)
-- [JavaScript Frameworks & Libraries](#javascript-frameworks-and-libraries)
-- [Mockups & Wireframing](#mockups-and-wireframing)
-- [AI Tools & Assistants](#ai-tools-and-assistants)
+- [Blogs](#blogs) (8)
+- [Books](#books) (16)
+- [Build & Bundling Tools](#build-and-bundling-tools) (8)
+- [Cloud Providers & Platforms](#cloud-providers-and-platforms) (12)
+- [Code Editors](#code-editors) (13)
+- [Code Management](#code-management) (5)
+- [Coding Courses & Learning](#coding-courses-and-learning) (11)
+- [Databases & Data Systems](#databases-and-data-systems) (12)
+- [JavaScript Frameworks & Libraries](#javascript-frameworks-and-libraries) (11)
+- [Mockups & Wireframing](#mockups-and-wireframing) (7)
+- [AI Tools & Assistants](#ai-tools-and-assistants) (8)
+
+### Quickstart
+
+1. Update `_data/resources.yml`
+2. Run `ruby scripts/validate.rb && ruby scripts/generate_readme.rb`
+3. Commit both the YAML and README changes
+4. Open a Pull Request (status rationale required if non-obvious)
+
+See `CONTRIBUTING.md` for full details.
 
 <a id="blogs"></a>
 ### Blogs
