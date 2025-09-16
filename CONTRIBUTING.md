@@ -78,6 +78,17 @@ Two GitHub Actions support quality:
 1. `Generate README` workflow ensures `README.md` matches `_data/resources.yml`. If it fails, run the generator and recommit.
 2. `Link Check` (weekly + on relevant PRs) validates external URLs. Fix or replace dead links when flagged.
 
+### Branch Protection & PR Requirements
+
+The `main` branch should be protected (enable in GitHub Settings > Branches):
+
+- Require pull request reviews before merging (CODEOWNERS enforces an owner review)
+- Require status checks to pass: `Generate README`, `Link Check`
+- Dismiss stale approvals on new commits (optional but recommended)
+- Restrict pushes so direct commits to `main` are disallowed
+
+After enabling protection, all changes must flow through PRs. If you see a bypass message in push output, protections are not fully configured yet.
+
 ### Optional Local Git Hook
 
 To automatically regenerate the README when editing `_data/resources.yml` you can enable the provided pre-commit hook:

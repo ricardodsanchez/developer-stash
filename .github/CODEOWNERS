@@ -1,0 +1,6 @@
+# Automatically require review from repository owner for any change
+* @ricardodsanchez
+
+# Generator and data changes always need review
+_data/** @ricardodsanchez
+scripts/generate_readme.rb @ricardodsanchez
