@@ -56,22 +56,22 @@ Foundational and influential software engineering literature.
 
 | Name | Status | Description | Website |
 | --- | --- | --- | --- |
-| [Clean Architecture](https://amzn.to/31k7Kki) | core | A craftsman's guide to software structure and design. | [Visit](https://amzn.to/31k7Kki) |
-| [Code Complete](https://amzn.to/2Ny4hMU) | core | Practical handbook of software construction. | [Visit](https://amzn.to/2Ny4hMU) |
-| [Cracking the Coding Interview](https://amzn.to/2NB7LhL) | core | 189 programming interview questions and solutions. | [Visit](https://amzn.to/2NB7LhL) |
-| [Data Modeling and Design](https://amzn.to/2Zv6ACn) | declining | Data modeling and design fundamentals. | [Visit](https://amzn.to/2Zv6ACn) |
-| [Design Patterns (GoF)](https://amzn.to/2I6RYRD) | core | Classic catalog of reusable object-oriented patterns. | [Visit](https://amzn.to/2I6RYRD) |
-| [Domain-Driven Design](https://amzn.to/2GLBGy1) | core | Strategic and tactical patterns for complex domains. | [Visit](https://amzn.to/2GLBGy1) |
-| [Enterprise Integration Patterns](https://amzn.to/2OCCewA) | niche | Messaging and integration pattern catalog. | [Visit](https://amzn.to/2OCCewA) |
+| [Clean Architecture](https://amzn.to/3VRRwNI) | core | A craftsman's guide to software structure and design. | [Visit](https://amzn.to/3VRRwNI) |
+| [Code Complete](https://amzn.to/4nqq9Gc) | core | Practical handbook of software construction. | [Visit](https://amzn.to/4nqq9Gc) |
+| [Cracking the Coding Interview](https://amzn.to/3Vkdh8S) | core | 189 programming interview questions and solutions. | [Visit](https://amzn.to/3Vkdh8S) |
+| [Data Modeling and Design](https://amzn.to/4n6eqgz) | declining | Data modeling and design fundamentals. | [Visit](https://amzn.to/4n6eqgz) |
+| [Design Patterns (GoF)](https://amzn.to/42xmCOi) | core | Classic catalog of reusable object-oriented patterns. | [Visit](https://amzn.to/42xmCOi) |
+| [Domain-Driven Design](https://amzn.to/4ndBkTi) | core | Strategic and tactical patterns for complex domains. | [Visit](https://amzn.to/4ndBkTi) |
+| [Enterprise Integration Patterns](https://amzn.to/4n4Engb) | niche | Messaging and integration pattern catalog. | [Visit](https://amzn.to/4n4Engb) |
 | [Head First Design Patterns](https://amzn.to/2YGnEIo) | core | Beginner-friendly introduction to design patterns. | [Visit](https://amzn.to/2YGnEIo) |
-| [Introduction to Algorithms (CLRS)](https://amzn.to/2DzyEOv) | core | Comprehensive algorithms reference. | [Visit](https://amzn.to/2DzyEOv) |
-| [Object Design](https://amzn.to/2KfDgdB) | declining | Roles, responsibilities, and collaborations in OO design. | [Visit](https://amzn.to/2KfDgdB) |
-| [Patterns of Enterprise Application Architecture](https://amzn.to/2M0nndl) | core | Patterns for enterprise application design. | [Visit](https://amzn.to/2M0nndl) |
-| [Peopleware](https://amzn.to/2IcqSZz) | niche | Human factors and productivity in software teams. | [Visit](https://amzn.to/2IcqSZz) |
-| [Real-World Algorithms](https://amzn.to/2QVeZLx) | niche | Applied algorithm concepts for beginners. | [Visit](https://amzn.to/2QVeZLx) |
-| [The Pragmatic Programmer](https://amzn.to/2xMm342) | core | Pragmatic approaches to software craftsmanship. | [Visit](https://amzn.to/2xMm342) |
-| [UML Distilled](https://amzn.to/2MC5alF) | legacy | Lightweight guide to UML. | [Visit](https://amzn.to/2MC5alF) |
-| [Designing Data-Intensive Applications](https://amzn.to/3example-ddia) | core | Modern architectures for reliable, scalable, maintainable systems. | [Visit](https://amzn.to/3example-ddia) |
+| [Introduction to Algorithms (CLRS)](https://amzn.to/3K2YxZz) | core | Comprehensive algorithms reference. | [Visit](https://amzn.to/3K2YxZz) |
+| [Object Design](https://amzn.to/4gmHJbW) | declining | Roles, responsibilities, and collaborations in OO design. | [Visit](https://amzn.to/4gmHJbW) |
+| [Patterns of Enterprise Application Architecture](https://amzn.to/46ooWso) | core | Patterns for enterprise application design. | [Visit](https://amzn.to/46ooWso) |
+| [Peopleware](https://amzn.to/3ImoylV) | niche | Human factors and productivity in software teams. | [Visit](https://amzn.to/3ImoylV) |
+| [Real-World Algorithms](https://amzn.to/467kiA3) | niche | Applied algorithm concepts for beginners. | [Visit](https://amzn.to/467kiA3) |
+| [The Pragmatic Programmer](https://amzn.to/46toMzV) | core | Pragmatic approaches to software craftsmanship. | [Visit](https://amzn.to/46toMzV) |
+| [UML Distilled](https://amzn.to/3VR6jbr) | legacy | Lightweight guide to UML. | [Visit](https://amzn.to/3VR6jbr) |
+| [Designing Data-Intensive Applications](https://amzn.to/4mhvhM4) | core | Modern architectures for reliable, scalable, maintainable systems. | [Visit](https://amzn.to/4mhvhM4) |
 
 <a id="build-and-bundling-tools"></a>
 ### Build & Bundling Tools
