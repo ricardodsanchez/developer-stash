@@ -3,6 +3,7 @@
 
 require 'yaml'
 require 'uri'
+require 'date'
 
 DATA_PATH = File.expand_path('../_data/resources.yml', __dir__)
 
@@ -11,12 +12,23 @@ unless File.exist?(DATA_PATH)
   exit 1
 end
 
-data = YAML.load_file(DATA_PATH)
+raw = File.read(DATA_PATH)
+data = YAML.safe_load(raw, permitted_classes: [Date], aliases: false)
 allowed_statuses = %w[core niche legacy deprecated emerging declining]
 errors = []
 
-last_vetted = data['last_vetted']
-errors << 'Missing top-level last_vetted (ISO date expected)' unless last_vetted.is_a?(String) && /\A\d{4}-\d{2}-\d{2}\z/.match?(last_vetted)
+last_vetted_raw = data['last_vetted']
+last_vetted = case last_vetted_raw
+              when Date
+                last_vetted_raw.strftime('%Y-%m-%d')
+              when String
+                last_vetted_raw
+              else
+                nil
+              end
+if last_vetted.nil? || !/\A\d{4}-\d{2}-\d{2}\z/.match?(last_vetted)
+  errors << 'Missing top-level last_vetted (ISO date expected)'
+end
 
 categories = data['categories']
 errors << 'Missing categories array' unless categories.is_a?(Array)

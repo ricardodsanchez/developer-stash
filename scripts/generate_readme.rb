@@ -15,10 +15,11 @@ unless File.exist?(DATA_PATH)
   exit 1
 end
 
-data = YAML.load_file(DATA_PATH)
+raw_yaml = File.read(DATA_PATH)
+data = YAML.safe_load(raw_yaml, permitted_classes: [Date], aliases: false)
 legend = data['status_legend'] || {}
 raw_last_vetted = data['last_vetted'] || Date.today.to_s
-last_vetted = raw_last_vetted.to_s
+last_vetted = raw_last_vetted.is_a?(Date) ? raw_last_vetted.strftime('%Y-%m-%d') : raw_last_vetted.to_s
 categories = data['categories'] || []
 total_resources = categories.map { |c| (c['resources'] || []).size }.sum
 generated_at_full = Time.now.utc # keep full time for potential future use
