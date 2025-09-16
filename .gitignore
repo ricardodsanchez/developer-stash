@@ -1,0 +1,15 @@
+# macOS Finder artifacts
+.DS_Store
+
+# Node / build (future-proof if tooling added later)
+node_modules/
+dist/
+build/
+
+# Dependency / lock files (uncomment if you adopt tooling and want to ignore)
+# yarn.lock
+# package-lock.json
+
+# Jekyll cache (if using GitHub Pages locally)
+_site/
+.jekyll-cache/
