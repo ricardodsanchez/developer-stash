@@ -55,37 +55,37 @@ categories:
     resources:
       - name: Clean Architecture
         author: Robert C. Martin
-        url: https://amzn.to/31k7Kki
+        url: https://amzn.to/3VRRwNI
         description: A craftsman's guide to software structure and design.
         status: core
       - name: Code Complete
         author: Steve McConnell
-        url: https://amzn.to/2Ny4hMU
+        url: https://amzn.to/4nqq9Gc
         description: Practical handbook of software construction.
         status: core
       - name: Cracking the Coding Interview
         author: Gayle Laakmann McDowell
-        url: https://amzn.to/2NB7LhL
+        url: https://amzn.to/3Vkdh8S
         description: 189 programming interview questions and solutions.
         status: core
       - name: Data Modeling and Design
         author: Scannel and Umanath
-        url: https://amzn.to/2Zv6ACn
+        url: https://amzn.to/4n6eqgz
         description: Data modeling and design fundamentals.
         status: declining
       - name: Design Patterns (GoF)
         author: Gamma, Helm, Johnson, Vlissides, Booch
-        url: https://amzn.to/2I6RYRD
+        url: https://amzn.to/42xmCOi
         description: Classic catalog of reusable object-oriented patterns.
         status: core
       - name: Domain-Driven Design
         author: Eric Evans
-        url: https://amzn.to/2GLBGy1
+        url: https://amzn.to/4ndBkTi
         description: Strategic and tactical patterns for complex domains.
         status: core
       - name: Enterprise Integration Patterns
         author: Gregor Hohpe
-        url: https://amzn.to/2OCCewA
+        url: https://amzn.to/4n4Engb
         description: Messaging and integration pattern catalog.
         status: niche
       - name: Head First Design Patterns
@@ -95,42 +95,42 @@ categories:
         status: core
       - name: Introduction to Algorithms (CLRS)
         author: Cormen, Leiserson, Rivest, Stein
-        url: https://amzn.to/2DzyEOv
+        url: https://amzn.to/3K2YxZz
         description: Comprehensive algorithms reference.
         status: core
       - name: Object Design
         author: Wirfs-Brock and McKean
-        url: https://amzn.to/2KfDgdB
+        url: https://amzn.to/4gmHJbW
         description: Roles, responsibilities, and collaborations in OO design.
         status: declining
       - name: Patterns of Enterprise Application Architecture
         author: Martin Fowler
-        url: https://amzn.to/2M0nndl
+        url: https://amzn.to/46ooWso
         description: Patterns for enterprise application design.
         status: core
       - name: Peopleware
         author: Tom DeMarco and Tim Lister
-        url: https://amzn.to/2IcqSZz
+        url: https://amzn.to/3ImoylV
         description: Human factors and productivity in software teams.
         status: niche
       - name: Real-World Algorithms
         author: Panos Louridas
-        url: https://amzn.to/2QVeZLx
+        url: https://amzn.to/467kiA3
         description: Applied algorithm concepts for beginners.
         status: niche
       - name: The Pragmatic Programmer
         author: Andrew Hunt and David Thomas
-        url: https://amzn.to/2xMm342
+        url: https://amzn.to/46toMzV
         description: Pragmatic approaches to software craftsmanship.
         status: core
       - name: UML Distilled
         author: Martin Fowler
-        url: https://amzn.to/2MC5alF
+        url: https://amzn.to/3VR6jbr
         description: Lightweight guide to UML.
         status: legacy
       - name: Designing Data-Intensive Applications
         author: Martin Kleppmann
-        url: https://amzn.to/3example-ddia
+        url: https://amzn.to/4mhvhM4
         description: Modern architectures for reliable, scalable, maintainable systems.
         status: core
 
